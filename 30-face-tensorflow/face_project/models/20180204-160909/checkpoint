@@ -1,0 +1,4 @@
+model_checkpoint_path: "/Users/yipsangleung/facenet/models/20180204-160909/model-20180204-160909.ckpt-266000"
+all_model_checkpoint_paths: "/Users/yipsangleung/facenet/models/20180204-160909/model-20180204-160909.ckpt-264000"
+all_model_checkpoint_paths: "/Users/yipsangleung/facenet/models/20180204-160909/model-20180204-160909.ckpt-265000"
+all_model_checkpoint_paths: "/Users/yipsangleung/facenet/models/20180204-160909/model-20180204-160909.ckpt-266000"
