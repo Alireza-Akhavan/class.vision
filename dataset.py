@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 from scipy import io
 
-def load_hoda(training_sample_size=1000, test_sample_size=200):
+def load_hoda(training_sample_size=1000, test_sample_size=200, size=5):
     #load dataset
     trs = training_sample_size
     tes = test_sample_size
@@ -16,10 +16,10 @@ def load_hoda(training_sample_size=1000, test_sample_size=200):
     y_test = np.squeeze(dataset['labels'][trs:trs+tes])
 
     #resize
-    X_train_5by5 = [cv2.resize(img, dsize=(5, 5)) for img in X_train_orginal]
-    X_test_5by_5 = [cv2.resize(img, dsize=(5, 5)) for img in X_test_original]
+    X_train_5by5 = [cv2.resize(img, dsize=(size, size)) for img in X_train_orginal]
+    X_test_5by_5 = [cv2.resize(img, dsize=(size, size)) for img in X_test_original]
     #reshape
-    X_train = [x.reshape(25) for x in X_train_5by5]
-    X_test = [x.reshape(25) for x in X_test_5by_5]
+    X_train = [x.reshape(size*size) for x in X_train_5by5]
+    X_test = [x.reshape(size*size) for x in X_test_5by_5]
     
     return X_train, y_train, X_test, y_test
