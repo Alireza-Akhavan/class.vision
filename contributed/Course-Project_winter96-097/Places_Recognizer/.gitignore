@@ -1,0 +1,12 @@
+# JetBrains project files
+.idea
+
+# NPM
+node_modules
+
+/.vscode/*
+
+.ipynb_checkpoints/*
+
+__pycache__/*
+
