@@ -13,7 +13,7 @@ for furture information visit [Nativescript-Vue Documantations]('http://nativesc
 
 ## Downloads
 
-  Download the app from this repository or just click [***HERE***]('http://mhsattarian.com/projects/Places%20Recognizer.apk').
+  Download the app from this repository or just click [***HERE***](http://mhsattarian.com/projects/Places%20Recognizer.apk).
 
 ## Build from the source
 
