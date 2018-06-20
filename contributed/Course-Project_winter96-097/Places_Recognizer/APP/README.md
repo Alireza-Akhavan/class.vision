@@ -13,7 +13,7 @@ for furture information visit [Nativescript-Vue Documantations]('http://nativesc
 
 ## Downloads
 
-  Download the app from this repository or just click [***HERE***](http://mhsattarian.com/projects/Places%20Recognizer.apk).
+  Download the app from build directory or just click [***HERE***](http://mhsattarian.com/projects/Places%20Recognizer.apk).
 
 ## Build from the source
 
@@ -23,7 +23,7 @@ Prerequisite are:
 - Gradle 3.2.1
 - JDK8
 
->As for now that above softwares are all unaccessible for Iranians developers, recomended way to install these packages is avoid installing them seperately using command-line methods (link SDKMAN, Chocolatey, etc.), unless you have the knowledge to set a proxy for this softwares and downloading them using Android Studio SDK manager, again using recommended [FOD (Freedom Of Developers) Proxy]('https://github.com/freedomeofdevelopers/fod/').
+>As for now that above softwares are all unaccessible for Iranians developers, recomended way to install these packages is avoid installing them seperately using command-line methods (link SDKMAN, Chocolatey, etc.), unless you have the knowledge to set a proxy for this softwares and downloading them using Android Studio SDK manager, again using recommended [FOD (Freedom Of Developers) Proxy](https://github.com/freedomeofdevelopers/fod/).
 
 ### Usage
 
