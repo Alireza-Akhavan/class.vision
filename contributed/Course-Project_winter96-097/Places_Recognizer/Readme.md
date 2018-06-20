@@ -20,7 +20,7 @@ Chosen places (Model Classes) :
 
 ## Quick Start
 
-[Download the APP]('http://mhsattarian.com/projects/Places%20Recognizer.apk') connect to server bellow and take picture or choose from gallery to predict:
+[Download the APP](https://mhsattarian.com/projects/Places%20Recognizer.apk) connect to server bellow and take picture or choose from gallery to predict:
 
 ```html
 http://http://95.211.250.100:8080/predict
