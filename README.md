@@ -1,14 +1,6 @@
-# class.vision
-Intro to Computer Vision Course.
-<p>SRTTU University.</p>
-<p><a href="http://class.vision" target="_blank">Class.Vision</a> web page.</p>
+# Vision Class
 
+![test](Assets/Header.jpg)
 
-<div dir="rtl">
-    
-این صفحه متعلق به درس **مباحث ویژه 1** با موضوع **مقدمه‌ای بر بینایی کامپیوتر** دانشگاه **تربیت دبیر شهید رجایی** در ترم بهمن ماه سال تحصیلی 96-97 است.
-</div>
+Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
 
-|شماره و گروه درس|زمان|
-|----|---|
-| ۰۱-۱۱۵-۱۱-۱۲ | سه شنبه ۱۵:۳۰-۱۷:۳۰ <br> چهار شنبه ۱۶:۳۰-۱۷:۳۰ |
