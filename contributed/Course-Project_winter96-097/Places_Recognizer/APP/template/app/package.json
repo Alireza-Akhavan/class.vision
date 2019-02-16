@@ -1,8 +1,0 @@
-{
-  "android": {
-    "v8Flags": "--expose_gc"
-  },
-  "main": "app.js",
-  "name": "place_recognizer",
-  "version": "0.1.0"
-}
