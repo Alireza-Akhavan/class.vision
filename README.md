@@ -54,12 +54,32 @@ Computer vision - *Opencv basics in python*
 
 </details>
 
-### Session 3
+ Or like this:
 
-Computer vision - *Image manipulation (part 1)*
+### Computer vision
 
 <details>
-<summary>Description</summary>
+<summary>Computer vision - <i>Image manipulation (part 1)</i></summary>
+
+#### Topics
+- Linear aljebra
+- Transform matrixes
+- Interpolation Methods
+
+#### 📒 NoteBooks
+
+#### 💡 Slides
+
+#### 📝 Student notes
+
+#### 🎞 Videos
+
+#### 🛠 Practices
+
+</details>
+
+<details>
+<summary>Computer vision - <i>Image manipulation (part 2)</i></summary>
 
 #### Topics
 - Linear aljebra
