@@ -136,3 +136,29 @@ Image manipulations(2) [ [PDF](http://class.vision/96-97/03_Image%20manipulation
 [aparat]([https://www.aparat.com/v/vaYxt](https://www.aparat.com/v/W8deM))
 
 </details>
+
+<details>
+<summary>S6 - <i>Binary Images, Threshold, and Morphology Operation</i></summary>
+
+#### Topics
+`Images kinds!`
+`Binary images`
+`Threshold`
+`Thresholding in OpenCV`
+`Morphology (Dilation, Opening, Closing)`
+`Morphology in OpenCV`
+
+#### Slides
+Binary Images and Morphology `[PDF](http://class.vision/96-97/04_Morphology.pdf)`
+`[PPT](http://class.vision/96-97/04_Morphology.pptx)`
+
+#### 📒 NoteBooks
+14-Thresholding, Binarization & Adaptive Thresholding.ipynb
+15-Dilation, Erosion, Opening and Closing.ipynb
+
+#### 📝 Student notes
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/tMB7C)
+
+</details>
