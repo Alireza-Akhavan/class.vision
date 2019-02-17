@@ -6,69 +6,41 @@ Introduction to Machine learning and Deep learning for Computer vision, A course
 
 ## Sessions
 
-### Session 1
-
-Introduction - *Course introduction*
+### Computer Vision
 
 <details>
-<summary>Description</summary>
+<summary>S1 - <i>Course Introduction</i></summary>
 
 #### Topics
-- Computer vision overview
-- Course logistics
+`Computer vision overview`
+`Course logistics`
 
-#### 📒 NoteBooks
+#### NoteBooks
 
-#### 💡 Slides
+#### Slides
+[PDF](http://class.vision/96-97/01_intro.pdf)
 
-#### 📝 Student notes
+#### Student notes
 
-#### 🎞 Videos
+#### Videos
 
-#### 🛠 Practices
+#### Practices
 
 </details>
 
-### Session 2
-
-Computer vision - *Opencv basics in python*
-
 <details>
-<summary>Description</summary>
+<summary>S2 -  <i>Opencv basics in python</i></summary>
 
-#### Topics
+#### 🎯 Topics
 - Reading Images
 - Color Spaces
 - Displaying Images
 - Saving Images
 
 #### 📒 NoteBooks
-
-#### 💡 Slides
-
-#### 📝 Student notes
-
-#### 🎞 Videos
-
-#### 🛠 Practices
-
-</details>
-
- Or like this:
-
-### Computer vision
-
-<details>
-<summary>Computer vision - <i>Image manipulation (part 1)</i></summary>
-
-#### Topics
-- Linear aljebra
-- Transform matrixes
-- Interpolation Methods
-
-#### 📒 NoteBooks
-
-#### 💡 Slides
+1. Reading, writing and displaying images
+2. Grayscaling
+3. Color Spaces
 
 #### 📝 Student notes
 
@@ -79,21 +51,88 @@ Computer vision - *Opencv basics in python*
 </details>
 
 <details>
-<summary>Computer vision - <i>Image manipulation (part 2)</i></summary>
+<summary>S3 - <i>Image manipulation (part 1)</i></summary>
 
 #### Topics
-- Linear aljebra
-- Transform matrixes
-- Interpolation Methods
+`Linear aljebra`
+`Transform matrixes`
+`Interpolation Methods`
+
+#### Slides
+Image manipulations(1) [ [PDF]([http://class.vision/96-97/01_intro.pdf](http://class.vision/96-97/02_Image%20manipulations(1).pdf)),
+[PPT]([http://class.vision/96-97/01_intro.pdf](http://class.vision/96-97/02_Image%20manipulations(1).pptx)) ]
 
 #### 📒 NoteBooks
-
-#### 💡 Slides
 
 #### 📝 Student notes
 
 #### 🎞 Videos
 
 #### 🛠 Practices
+
+</details>
+
+<details>
+<summary>S4 - <i>Image manipulation functions in OpenCV</i></summary>
+
+#### Topics
+`Draw geometric shapes`
+`Transform matrixes`
+`Translations`
+`Rotation`
+`Resizing`
+`Image pyramid!`
+`Cropping`
+
+#### Slides
+Image manipulations(1) [ [PDF]([http://class.vision/96-97/01_intro.pdf](http://class.vision/96-97/02_Image%20manipulations(1).pdf)),
+[PPT]([http://class.vision/96-97/01_intro.pdf](http://class.vision/96-97/02_Image%20manipulations(1).pptx)) ]
+
+#### 📒 NoteBooks
+04-Drawing Images.ipynb
+05-Translations.ipynb
+06-Rotations.ipynb
+07-Scaling, re-sizing and interpolations.ipynb
+08-Image Pyramids.ipynb
+09-Cropping.ipynb
+
+#### 📝 Student notes
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/vaYxt)
+
+</details>
+
+<details>
+<summary>P1 - <i>🛠 Intros</i></summary>
+
+</details>
+
+
+<details>
+<summary>S5 - <i>Image manipulation (part 2)</i></summary>
+
+#### Topics
+`Logical and Mathematical Operations in OpenCV`
+`Image masking in OpenCV`
+`Convolution and Correlation filters`
+`Moving average`
+`Sharpening`
+`Filters in OpenCV`
+
+#### Slides
+Image manipulations(2) [ [PDF](http://class.vision/96-97/03_Image%20manipulations(2).pdf),
+[PPT](http://class.vision/96-97/03_Image%20manipulations(2).pptx) ]
+
+#### 📒 NoteBooks
+10-Arithmetic Operations.ipynb
+11-Bitwise Operations and Masking.ipynb
+12-Convolutions and Blurring.ipynb
+13-Sharpening.ipynb
+
+#### 📝 Student notes
+
+#### 🎞 Videos
+[aparat]([https://www.aparat.com/v/vaYxt](https://www.aparat.com/v/W8deM))
 
 </details>
