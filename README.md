@@ -4,7 +4,7 @@
 
 Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
 
-This course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`. then, continues with an **Introduction to Learning Algorithms and Neural Networks**. for the last part **Deep Neural Networks** published after 2012 are studied and are implemented using `python` and `Keras` Machine learning and deep learning framework. 
+This course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`. then, continues with an **Introduction to Learning Algorithms and Neural Networks**. for the last part **Deep Neural Networks** published after 2012 are studied and are implemented using python and `Keras` Machine learning and deep learning framework. 
 
 ## Sessions
 
@@ -26,10 +26,10 @@ Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 <summary>S2 -  <i>Opencv basics in python</i></summary>
 
 #### 🎯 Topics
-- Reading Images
-- Color Spaces
-- Displaying Images
-- Saving Images
+'Reading Images'
+'Color Spaces'
+'Displaying Images'
+'Saving Images'
 
 #### 💡 Slides
 
@@ -58,7 +58,7 @@ Image manipulations(1) [PDF](http://class.vision/96-97/02_Image%20manipulations(
 <details>
 <summary>S4 - <i>Image manipulation functions in OpenCV</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Draw geometric shapes`
 `Transform matrices`
 `Translations`
@@ -67,7 +67,7 @@ Image manipulations(1) [PDF](http://class.vision/96-97/02_Image%20manipulations(
 `Image pyramids`
 `Cropping`
 
-#### Slides
+#### 💡 Slides
 
 #### 📒 NoteBooks
 4. Drawing Images
@@ -87,14 +87,14 @@ Image manipulations(1) [PDF](http://class.vision/96-97/02_Image%20manipulations(
 <details>
 <summary>S5 - <i>Image manipulation (part 2)</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Logical and Mathematical Operations in OpenCV`
 `Image masking in OpenCV`
 `Convolution and Correlation filters`
 `Moving Average`
 `Sharpening Filters in OpenCV`
 
-#### Slides
+#### 💡 Slides
 Image manipulations(2) [PDF](http://class.vision/96-97/03_Image%20manipulations(2).pdf) | 
 [PPT](http://class.vision/96-97/03_Image%20manipulations(2).pptx)
 
@@ -114,14 +114,14 @@ Image manipulations(2) [PDF](http://class.vision/96-97/03_Image%20manipulations(
 <details>
 <summary>S6 - <i>Binary Images, Thresholds, and Morphology Operation</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Images Types`
 `Binary images, and Thresholds`
 `Thresholds in OpenCV`
 `Morphology (Dilation, Erosion, Opening, and Closing)`
 `Morphology in OpenCV`
 
-#### Slides
+#### 💡 Slides
 Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) | [PPT](http://class.vision/96-97/04_Morphology.pptx)
 
 #### 📒 NoteBooks
@@ -138,7 +138,7 @@ Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) 
 <details>
 <summary>S7 - <i>Edge Detection</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Images Derivative, and Gradient`
 `Canny, and Sobel Edge Detections`
 `Edge Detection in OpenCv`
@@ -146,7 +146,7 @@ Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) 
 `Affine Transforms`
 `Using Webcam in OpenCv`
 
-#### Slides
+#### 💡 Slides
 Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) | [PPT](http://class.vision/96-97/05_Edges.pptx)
 
 #### 📒 NoteBooks
@@ -166,7 +166,7 @@ Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) | [PPT](http://clas
 <details>
 <summary>S8 - <i>Introduction to Machine Learning</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `What is ML`
 `Supervised Learning`
 `Unsupervised Learning`
@@ -175,7 +175,7 @@ Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) | [PPT](http://clas
 `Train-Test Split`
 `Model evaluation`
 
-#### Slides
+#### 💡 Slides
 Introduction to Machine Learning [PDF](http://class.vision/96-97/06_Intro%20to%20ML%20&%20Overview.pdf) | [PPT](http://class.vision/96-97/06_Intro%20to%20ML%20&%20Overview.pptx)
 
 #### 📝 Student notes
@@ -185,7 +185,7 @@ Introduction to Machine Learning [PDF](http://class.vision/96-97/06_Intro%20to%2
 <details>
 <summary>S9 - <i>Classifications, KNN, SciKit-learn </i>|<i> Introduction to Neural Network (1)</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Perceptron`
 `Weights and Biases in Perceptron`
 `Activation Function`
@@ -193,7 +193,7 @@ Introduction to Machine Learning [PDF](http://class.vision/96-97/06_Intro%20to%2
 `Multilayer Perceptron (MLP)`
 `Layers in MLP (input, hidden, and output)`
 
-#### Slides
+#### 💡 Slides
 Simple Classifier (KNN) [PDF](http://class.vision/96-97/07_simple%20classifier.pdf) | [PPT](http://class.vision/96-97/07_simple%20classifier.pptx)
 
 Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%20to%20Neural%20Networks.pdf) | [PPT](http://class.vision/96-97/08_Introduction%20to%20Neural%20Networks.pptx)
@@ -208,7 +208,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 <details>
 <summary>S10 - <i>Introduction to Neural Networks (2)</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Loss Function (Coss Function)`
 `Gradient Descent, and Back Propagation`
 `Model Visualization`
@@ -224,7 +224,7 @@ Model Visualization and observing changes of number of each layer using [Tensorf
 <details>
 <summary>S11 - <i>Introduction to Implementing Recurrent Neural Networks using Keras</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Recurrent, fully connected Networks in Keras`
 `Declaring Model Architecture`
 `Choosing Loss function, and Optimizer`
@@ -241,31 +241,150 @@ Model Visualization and observing changes of number of each layer using [Tensorf
 
 </details>
 
-## Deep Learning
+### Deep Learning
 
 <details>
 <summary>S12 - <i>Introduction to Deep Neural Networks</i></summary>
 
-#### Topics
+#### 🎯 Topics
 `Classification Tasks in Real-Life`
 `Invariant Object Recognition`
+`KNN, pros and cons`
 `Over-fitting`
 `Dropout`
-`Convolutional Networks`
+`Convolutional Neural Networks (CNN)`
+`CNNs vs. Classic methods`
 `ImageNet`
 
-#### Slides
+#### 💡 Slides
 Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class.vision/96-97/09_Introduction%20to%20DeepNN_and_ConvNet.pdf) | [PPT](http://class.vision/96-97/09_Introduction%20to%20DeepNN_and_ConvNet.pptx)
 
 #### 📒 NoteBooks
-1.  Dropout
+22.  Dropout
 
 #### 📝 Student notes
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/tMB7C)
+[aparat](https://www.aparat.com/v/JMAlZ)
 
 </details>
 
+<details>
+<summary>S13 - <i>Introduction to Convolutional Neural Networks</i></summary>
+
+#### 🎯 Topics
+`Kernels: Convolutional Filters`
+`Learning kernels vs. Designing Fitlers`
+`Same and Valid Convolutions`
+`Paddings and strides`
+`Image Size before and after conv.`
+`3D convolutions`
+`Multi-filter convolutions`
+`Convolutional Layers Parameters`
+`Pooling Layers`
+`LeNet`
+
+#### 💡 Slides
+Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pdf) | [PPT](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pptx)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/6wZSr)
+
+</details>
+
+<details>
+<summary>S14 - <i>Implementing Persian Handwritten Numbers Recognition using Keras</i></summary>
+
+#### 🎯 Topics
+`CNN Layers`
+`CNN pros and cons`
+`CNNs in Keras`
+`Conv2D and MaxPooling2D functions`
+`Flatten Method`
+`Models Summery`
+
+#### 📒 NoteBooks
+23.  Convolutional Neural Network - Hoda+Keras
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/54W6Y)
+
+</details>
+
+<details>
+<summary>S15 - <i>Cat vs. Dog Binary Classification</i></summary>
+
+#### 🎯 Topics
+`Train-Test-Validation Split`
+`Data Generators in Keras`
+`Sigmoid and Softmax`
+`Step per Epoch`
+`Over-fitting`
+
+#### 📒 NoteBooks
+24. CNN cat vs. dog
+
+#### 📝 Student notes
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/2R0a7)
+
+</details>
+
+<details>
+<summary>S16 - <i>Review on Image Classification Architectures | Case Studies</i></summary>
+
+#### 🎯 Topics
+`Brain Architecture`
+`AlexNet`
+`VGGNet`
+`GoogLeNet`
+`ResNet`
+
+#### 💡 Slides
+Case Studies [PDF](http://class.vision/96-97/11_CNN-caseStudy.pdf) | [PPT](http://class.vision/96-97/11_CNN-caseStudy.pptx)
+
+#### 📝 Student notes
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/qUXnJ)
+
+#### Links
+Papers: [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [VGGNet](https://arxiv.org/abs/1409.1556), [GoogLeNet](https://arxiv.org/abs/1409.4842), [ResNet](https://arxiv.org/abs/1512.03385)
+
+</details>
+
+<details>
+<summary>S17 - <i>Data Augmentation</i></summary>
+
+#### 🎯 Topics
+`Preventing Over-fitting`
+`Data Augmentation in Keras`
+
+#### 💡 Slides
+Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pdf) | [PPT](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pptx)
+
+#### 📒 NoteBooks
+1.  Data Augmentation
+
+</details>
+
+<details>
+<summary>S18 - <i>Transfer Learning</i></summary>
+
+#### 🎯 Topics
+`Loading Pre-trained Models`
+`Transfer Learning in Keras`
+
+#### 💡 Slides
+Data Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pdf) | [PPT](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pptx)
+
+#### 📒 NoteBooks
+26. Loading Trained Model in Keras
+28. Transfer LEarning - Feature Extraction
+
+#### 📝 Student notes
+
+</details>
 
 ## Practices
