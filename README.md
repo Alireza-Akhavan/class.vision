@@ -1,6 +1,7 @@
 # Vision Class
 
 ![Vision Class | SRU university](Assets/Header.jpg)
+[Blog](http://blog.class.vision/) | [Aparat](https://www.aparat.com/cvision) | [Telegram](https://t.me/class_vision)
 
 Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
 
@@ -216,7 +217,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/T4OqM)
 
-### links
+#### links
 Model Visualization and observing changes of number of each layer using [Tensorflow Playground](http://playground.tensorflow.org/)
 
 </details>
@@ -349,8 +350,14 @@ Case Studies [PDF](http://class.vision/96-97/11_CNN-caseStudy.pdf) | [PPT](http:
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/qUXnJ)
 
-#### Links
-Papers: [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [VGGNet](https://arxiv.org/abs/1409.1556), [GoogLeNet](https://arxiv.org/abs/1409.4842), [ResNet](https://arxiv.org/abs/1512.03385)
+#### 📖 Reading Materials
+[AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+[VGGNet](https://arxiv.org/abs/1409.1556)
+
+[GoogLeNet](https://arxiv.org/abs/1409.4842)
+
+[ResNet](https://arxiv.org/abs/1512.03385)
 
 </details>
 
@@ -365,12 +372,12 @@ Papers: [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with
 Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pdf) | [PPT](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pptx)
 
 #### 📒 NoteBooks
-1.  Data Augmentation
+25. Data Augmentation
 
 </details>
 
 <details>
-<summary>S18 - <i>Transfer Learning</i></summary>
+<summary>S18 - <i>Transfer Learning (1)</i></summary>
 
 #### 🎯 Topics
 `Loading Pre-trained Models`
@@ -384,6 +391,74 @@ Data Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20
 28. Transfer LEarning - Feature Extraction
 
 #### 📝 Student notes
+
+</details>
+
+<details>
+<summary>S19 - <i>Transfer Learning (2)</i></summary>
+
+#### 🎯 Topics
+`Implementing classification in keras`
+`conv. layers as Feature extraction`
+`Fine-tuning`
+
+#### 📒 NoteBooks
+27. Using a pretrained convnet
+28. Transfer learning feature extraction
+29. Transfer learning Fine tuning
+
+</details>
+
+<details>
+<summary>S20 - <i>Face Verification & Identification (1)</i></summary>
+
+#### 🎯 Topics
+`One-shot Learning`
+`Siamese Networks`
+`Triplet Loss`
+
+#### 💡 Slides
+Face [PDF](http://class.vision/96-97/13-face.pdf) | [PPT](http://class.vision/96-97/13-face.pptx)
+
+</details>
+
+<details>
+<summary>S21 - <i>Face Verification & Identification (2)</i></summary>
+
+#### 🎯 Topics
+`Center Loss`
+`A-softmax Loss`
+
+#### 📒 NoteBooks
+30.  Face Recognition
+
+#### 📖 Reading Materials
+A Discriminative Feature Learning Approach
+for Deep Face Recognition [PDF](http://class.vision/96-97/paper/WenECCV16.pdf)
+
+SphereFace: Deep Hypersphere Embedding for Face Recognition [PDF](https://arxiv.org/pdf/1704.08063)
+
+</details>
+
+<details>
+<summary>S22 - <i>Dace Detection</i></summary>
+
+#### 🎯 Topics
+`Face Detection`
+`HAAR Cascade`
+`Wider Challenge`
+`MTCNN`
+`Face Detection Project Instructions`
+
+#### 📒 NoteBooks
+31. Face & Eye Detection
+32. MTCNN Detection Sample Code
+
+#### 📖 Reading Materials
+Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks (MTCNN) [PDF](https://arxiv.org/pdf/1604.02878)
+
+#### links
+[Wider Face Challenge](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
 
 </details>
 
