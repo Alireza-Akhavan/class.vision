@@ -1,7 +1,7 @@
 # Vision Class
 
 ![Vision Class | SRU university](Assets/Header.jpg)
-[Blog](http://blog.class.vision/) | [Aparat](https://www.aparat.com/cvision) | [Telegram](https://t.me/class_vision)
+[Blog](http://blog.class.vision/) | [Aparat](https://www.aparat.com/cvision) | [Telegram](https://t.me/class_vision) ![](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg) ![]()
 
 Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
 
