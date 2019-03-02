@@ -33,7 +33,7 @@ Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 `Saving Images`
 
 #### 📒 NoteBooks
-1. [Reading, writing and displaying images]("01-Reading, writing and displaying images.ipynb")
+1. [Reading, writing and displaying images](01-Reading,&#32;writing&#32;and&#32;displaying&#32;images.ipynb)
 2. Grayscaling
 3. Color Spaces
 
