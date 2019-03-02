@@ -1,7 +1,7 @@
 # Vision Class
 
 ![Vision Class | SRU university](Assets/Header.jpg)
-[Blog](http://blog.class.vision/) | [Aparat](https://www.aparat.com/cvision) | [Telegram](https://t.me/class_vision) ![](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg) ![]()
+[Blog](http://blog.class.vision/) | [Aparat](https://www.aparat.com/cvision) | [Telegram](https://t.me/class_vision)
 
 Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
 
@@ -27,15 +27,13 @@ Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 <summary>S2 -  <i>Opencv basics in python</i></summary>
 
 #### 🎯 Topics
-'Reading Images'
-'Color Spaces'
-'Displaying Images'
-'Saving Images'
-
-#### 💡 Slides
+`Reading Images`
+`Color Spaces`
+`Displaying Images`
+`Saving Images`
 
 #### 📒 NoteBooks
-1. Reading, writing and displaying images
+1. [Reading, writing and displaying images]("01-Reading, writing and displaying images.ipynb")
 2. Grayscaling
 3. Color Spaces
 
