@@ -242,7 +242,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/T4OqM)
 
-#### links
+#### 🔗 links
 Model Visualization and observing changes in number of each layer using [Tensorflow Playground](http://playground.tensorflow.org/)
 
 </details>
@@ -487,7 +487,7 @@ SphereFace: Deep Hypersphere Embedding for Face Recognition [PDF](https://arxiv.
 #### 📖 Reading Materials
 Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks (MTCNN) [PDF](https://arxiv.org/pdf/1604.02878)
 
-#### links
+#### 🔗 links
 [Wider Face Challenge](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
 
 </details>
@@ -503,7 +503,6 @@ Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Netwo
 - *[P5 - Introduction to Neural Networks](http://class.vision/96-97/assignment/seri5.pdf)*
 - *[P6 - Implement and train classifiers, and using Google Colab](http://class.vision/96-97/assignment/seri6.pdf)*
 - *[P7 - Objects Recognition using webcam](http://class.vision/96-97/assignment/seri7.pdf)*
-- 
 
 
 ## quizzes
