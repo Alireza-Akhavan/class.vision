@@ -21,6 +21,8 @@ This course starts with an **Introduction to Computer Vision** with practical ap
 #### 💡 Slides
 Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 
+#### 📒 NoteBooks
+0. [Beginning](0-Beginning.ipynb)
 </details>
 
 <details>
@@ -34,10 +36,14 @@ Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 
 #### 📒 NoteBooks
 1. [Reading, writing and displaying images](01-Reading,&#32;writing&#32;and&#32;displaying&#32;images.ipynb)
-2. Grayscaling
-3. Color Spaces
+2. [Grayscaling](02-Grayscaling.ipynb)
+3. [Color Spaces](03-Color&#32;Spaces.ipynb)
 
 #### 📝 Student notes
+- [Opencv Installation and startup](http://blog.class.vision/1396/11/installation/)
+- [Introduction to Opencv](http://blog.class.vision/1396/12/intro-to-opencv/)
+- [Introduction to Anaconda](http://blog.class.vision/1396/11/intro-anaconda/)
+- [Git and getting last updates](http://blog.class.vision/1396/11/git-clone-pull/)
 
 </details>
 
@@ -50,7 +56,7 @@ Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 `Interpolation Methods`
 
 #### 💡 Slides
-Image manipulations(1) [PDF](http://class.vision/96-97/02_Image%20manipulations(1).pdf) | [PPT](http://class.vision/96-97/02_Image%20manipulations(1).pptx)
+Image manipulations (1) [PDF](http://class.vision/96-97/02_Image%20manipulations(1).pdf) • [PPT](http://class.vision/96-97/02_Image%20manipulations(1).pptx)
 
 </details>
 
