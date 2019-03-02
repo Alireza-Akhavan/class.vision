@@ -1,7 +1,7 @@
 # Vision Class
 
-![Vision Class | SRU university](Assets/Header.jpg)
-[Blog](http://blog.class.vision/) | [Aparat](https://www.aparat.com/cvision) | [Telegram](https://t.me/class_vision)
+![Vision Class • SRU university](Assets/Header.jpg)
+[Blog](http://blog.class.vision/) • [Aparat](https://www.aparat.com/cvision) • [Telegram](https://t.me/class_vision)
 
 Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
 
@@ -38,6 +38,7 @@ Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 1. [Reading, writing and displaying images](01-Reading,&#32;writing&#32;and&#32;displaying&#32;images.ipynb)
 2. [Grayscaling](02-Grayscaling.ipynb)
 3. [Color Spaces](03-Color&#32;Spaces.ipynb)
+3-2. [Extra](03-extra.ipynb)
 
 #### 📝 Student notes
 - [Opencv Installation and startup](http://blog.class.vision/1396/11/installation/)
@@ -72,17 +73,18 @@ Image manipulations (1) [PDF](http://class.vision/96-97/02_Image%20manipulations
 `Image pyramids`
 `Cropping`
 
-#### 💡 Slides
-
 #### 📒 NoteBooks
-4. Drawing Images
-5. Translations
-6. Rotations
-7. Scaling, resizing and interpolations
-8. Image Pyramids
-9. Cropping
+4. [Drawing Images](04-Drawing&#32;Images.ipynb)
+5. [Translations](05-Translations.ipynb)
+6. [Rotations](06-Rotations.ipynb)
+7. [Scaling, resizing and interpolations](07-Scaling,&#32;re-sizing&#32;and&#32;interpolations.ipynb)
+8. [Image Pyramids](08-Image&#32;Pyramids.ipynb)
+9. [Cropping](09-Cropping.ipynb)
 
 #### 📝 Student notes
+- [Image manipulations part 1](http://blog.class.vision/1396/12/image-manipulations-part1/)
+- [Image manipulations part 2](http://blog.class.vision/1396/12/image-manipulations-part2/)
+- [Image manipulations part 3](http://blog.class.vision/1396/12/image-manipulations-part3/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/vaYxt)
@@ -100,16 +102,19 @@ Image manipulations (1) [PDF](http://class.vision/96-97/02_Image%20manipulations
 `Sharpening Filters in OpenCV`
 
 #### 💡 Slides
-Image manipulations(2) [PDF](http://class.vision/96-97/03_Image%20manipulations(2).pdf) | 
+Image manipulations (2) [PDF](http://class.vision/96-97/03_Image%20manipulations(2).pdf) • 
 [PPT](http://class.vision/96-97/03_Image%20manipulations(2).pptx)
 
 #### 📒 NoteBooks
-10. Arithmetic Operations
-11. Bitwise Operations and Masking
-12. Convolutions and Blurring
-13. Sharpening
+10. [Arithmetic Operations](10-Arithmetic&#32;Operations.ipynb)
+11. [Bitwise Operations and Masking](11-Bitwise&#32;Operations&#32;and&#32;Masking.ipynb)
+12. [Convolutions and Blurring](12-Convolutions&#32;and&#32;Blurring.ipynb)
+13. [Sharpening](13-Sharpening.ipynb)
 
 #### 📝 Student notes
+- [Image manipulations part 4](http://blog.class.vision/1396/12/image-manipulations-part4/)
+- [Image manipulations part 5](http://blog.class.vision/1396/12/image-manipulations-part5/)
+- [Image manipulations part 6](http://blog.class.vision/1396/12/image-manipulations-part6/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/W8deM)
@@ -127,13 +132,15 @@ Image manipulations(2) [PDF](http://class.vision/96-97/03_Image%20manipulations(
 `Morphology in OpenCV`
 
 #### 💡 Slides
-Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) | [PPT](http://class.vision/96-97/04_Morphology.pptx)
+Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) • [PPT](http://class.vision/96-97/04_Morphology.pptx)
 
 #### 📒 NoteBooks
-14. Thresholding, Binarization & Adaptive Thresholding
-15. Dilation, Erosion, Opening and Closing
+14. [Thresholding, Binarization & Adaptive Thresholding](14-Thresholding,&#32;Binarization&#32;&&#32;Adaptive&#32;Thresholding.ipynb)
+15. [Dilation, Erosion, Opening and Closing](15-Dilation,&#32;Erosion,&#32;Opening&#32;and&#32;Closing.ipynb)
 
 #### 📝 Student notes
+- [Binary images and Thresholding](http://blog.class.vision/1396/12/binary-image-threshold/)
+- [Morphology, opening and closing](http://blog.class.vision/1396/12/morphology-opening-closing/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/tMB7C)
@@ -152,14 +159,18 @@ Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) 
 `Using Webcam in OpenCv`
 
 #### 💡 Slides
-Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) | [PPT](http://class.vision/96-97/05_Edges.pptx)
+Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) • [PPT](http://class.vision/96-97/05_Edges.pptx)
 
 #### 📒 NoteBooks
-16. Edge Detection & Image Gradients
-17. Perspective & Affine Transforms
-18. Using Webcam
+16. [Edge Detection & Image Gradients](16-EdgeDetection&ImageGradients.ipynb)
+17. [Perspective & Affine Transforms](17-Perspective&AffineTransforms.ipynb)
+18. [Using Webcam](18-UsingWebcam.ipynb)
 
 #### 📝 Student notes
+- [Edge detection part 1](http://blog.class.vision/1396/12/edge-detection-part1/)
+- [Edge detection part 2](http://blog.class.vision/1396/12/edge-detection-part2/)
+- [Affine Transforms in Opencv](http://blog.class.vision/1396/12/affine-perspective-transformation/)
+- [Using webcam in Opencv](http://blog.class.vision/1396/12/using-webcam-in-opencv/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/UyuVf)
@@ -181,14 +192,16 @@ Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) | [PPT](http://clas
 `Model evaluation`
 
 #### 💡 Slides
-Introduction to Machine Learning [PDF](http://class.vision/96-97/06_Intro%20to%20ML%20&%20Overview.pdf) | [PPT](http://class.vision/96-97/06_Intro%20to%20ML%20&%20Overview.pptx)
+Introduction to Machine Learning [PDF](http://class.vision/96-97/06_Intro%20to%20ML%20&%20Overview.pdf) • [PPT](http://class.vision/96-97/06_Intro%20to%20ML%20&%20Overview.pptx)
 
 #### 📝 Student notes
+- [Introduction to Machine Learning](http://blog.class.vision/1396/12/machine-learning-intro/)
+- [Machine Learning workflow](http://blog.class.vision/1396/12/machine-learning-workflow/)
 
 </details>
 
 <details>
-<summary>S9 - <i>Classifications, KNN, SciKit-learn </i>|<i> Introduction to Neural Network (1)</i></summary>
+<summary>S9 - <i>Classifications, KNN, SciKit-learn </i>•<i> Introduction to Neural Network (1)</i></summary>
 
 #### 🎯 Topics
 `Perceptron`
@@ -199,11 +212,19 @@ Introduction to Machine Learning [PDF](http://class.vision/96-97/06_Intro%20to%2
 `Layers in MLP (input, hidden, and output)`
 
 #### 💡 Slides
-Simple Classifier (KNN) [PDF](http://class.vision/96-97/07_simple%20classifier.pdf) | [PPT](http://class.vision/96-97/07_simple%20classifier.pptx)
+Simple Classifier (KNN) [PDF](http://class.vision/96-97/07_simple%20classifier.pdf) • [PPT](http://class.vision/96-97/07_simple%20classifier.pptx)
 
-Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%20to%20Neural%20Networks.pdf) | [PPT](http://class.vision/96-97/08_Introduction%20to%20Neural%20Networks.pptx)
+Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%20to%20Neural%20Networks.pdf) • [PPT](http://class.vision/96-97/08_Introduction%20to%20Neural%20Networks.pptx)
+
+#### 📒 NoteBooks
+
+19. [Introduction to ML, and using Hoda Dataset](19-Intro2ML-HodaDataset.ipynb)
+20. [K Nearest Neighbor classification](20-k-Nearest&#32;Neighbor&#32;classification.ipynb)
 
 #### 📝 Student notes
+- [KNN classifier in scikit-learn](http://blog.class.vision/1396/12/knn-classifier-scikit-learn/)
+- [Introduction to Neural networks (part 1)](http://blog.class.vision/1396/12/introduction-to-neural-networks-part1/)
+- [Introduction to Neural networks (part 2)](http://blog.class.vision/1396/12/introduction-to-neural-networks-part2/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/THo7D)
@@ -222,7 +243,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 [aparat](https://www.aparat.com/v/T4OqM)
 
 #### links
-Model Visualization and observing changes of number of each layer using [Tensorflow Playground](http://playground.tensorflow.org/)
+Model Visualization and observing changes in number of each layer using [Tensorflow Playground](http://playground.tensorflow.org/)
 
 </details>
 
@@ -237,9 +258,10 @@ Model Visualization and observing changes of number of each layer using [Tensorf
 `Predicting using Model`
 
 #### 📒 NoteBooks
-21. A Gentle Introduction to Keras – Simple neural network(MLP)
+21. [A Gentle Introduction to Keras – Simple neural network(MLP)](21-a&#32;Gentle&#32;Introduction&#32;to&#32;Keras&#32;-&#32;Simple&#32;neural&#32;network(mlp).ipynb)
 
 #### 📝 Student notes
+- [Introduction to implementing sequential models in Keras](http://blog.class.vision/1397/02/sequential-model-keras/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/E3cK6)
@@ -262,12 +284,14 @@ Model Visualization and observing changes of number of each layer using [Tensorf
 `ImageNet`
 
 #### 💡 Slides
-Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class.vision/96-97/09_Introduction%20to%20DeepNN_and_ConvNet.pdf) | [PPT](http://class.vision/96-97/09_Introduction%20to%20DeepNN_and_ConvNet.pptx)
+Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class.vision/96-97/09_Introduction%20to%20DeepNN_and_ConvNet.pdf) • [PPT](http://class.vision/96-97/09_Introduction%20to%20DeepNN_and_ConvNet.pptx)
 
 #### 📒 NoteBooks
-22.  Dropout
+22. [Dropout](22-Dropout.ipynb)
 
 #### 📝 Student notes
+- [Over-fitting and Dropout](http://blog.class.vision/1397/02/overfitting-dropout/)
+- [Introduction to Convolutional Neural Networks](http://blog.class.vision/1397/02/intro-convolutional-neural-network/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/JMAlZ)
@@ -290,7 +314,7 @@ Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class
 `LeNet`
 
 #### 💡 Slides
-Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pdf) | [PPT](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pptx)
+Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pdf) • [PPT](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pptx)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/6wZSr)
@@ -309,7 +333,7 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 `Models Summery`
 
 #### 📒 NoteBooks
-23.  Convolutional Neural Network - Hoda+Keras
+23. [Convolutional Neural Network: Hoda + Keras](23-ConvolutionalNeuralNetwork-Hoda-Keras.ipynb)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/54W6Y)
@@ -327,9 +351,10 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 `Over-fitting`
 
 #### 📒 NoteBooks
-24. CNN cat vs. dog
+24. [CNN cat vs. dog](24-CNN-cat_Vs_dog.ipynb)
 
 #### 📝 Student notes
+- [Training a Convolutional Neural Networks in Keras](http://blog.class.vision/1397/03/train-convolutional-neural-network-in-keras/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/2R0a7)
@@ -337,7 +362,7 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 </details>
 
 <details>
-<summary>S16 - <i>Review on Image Classification Architectures | Case Studies</i></summary>
+<summary>S16 - <i>Review on Image Classification Architectures • Case Studies</i></summary>
 
 #### 🎯 Topics
 `Brain Architecture`
@@ -347,9 +372,10 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 `ResNet`
 
 #### 💡 Slides
-Case Studies [PDF](http://class.vision/96-97/11_CNN-caseStudy.pdf) | [PPT](http://class.vision/96-97/11_CNN-caseStudy.pptx)
+Case Studies [PDF](http://class.vision/96-97/11_CNN-caseStudy.pdf) • [PPT](http://class.vision/96-97/11_CNN-caseStudy.pptx)
 
 #### 📝 Student notes
+- [Famous Convolutional Neural Networks Architectures](http://blog.class.vision/1397/03/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet/)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/qUXnJ)
@@ -373,10 +399,10 @@ Case Studies [PDF](http://class.vision/96-97/11_CNN-caseStudy.pdf) | [PPT](http:
 `Data Augmentation in Keras`
 
 #### 💡 Slides
-Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pdf) | [PPT](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pptx)
+Data Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pdf) • [PPT](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pptx)
 
 #### 📒 NoteBooks
-25. Data Augmentation
+25. [Data Augmentation](25-data_augmentation.ipynb)
 
 </details>
 
@@ -388,13 +414,15 @@ Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augme
 `Transfer Learning in Keras`
 
 #### 💡 Slides
-Data Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pdf) | [PPT](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pptx)
+Data Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pdf) • [PPT](http://class.vision/96-97/12_Data%20Augmentation&TransferLearning.pptx)
 
 #### 📒 NoteBooks
-26. Loading Trained Model in Keras
-28. Transfer LEarning - Feature Extraction
+26. [Loading Trained Model in Keras](26-Load_trained_model_in_keras.ipynb)
+28. [Transfer LEarning - Feature Extraction](28-Transfer_learning_feature_extraction.ipynb)
 
 #### 📝 Student notes
+- [Looking into Brains visual cortex](http://blog.class.vision/1397/03/visual-cortex/)
+- [Transfer Learning](http://blog.class.vision/1397/03/transfer-learning/)
 
 </details>
 
@@ -407,9 +435,9 @@ Data Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20
 `Fine-tuning`
 
 #### 📒 NoteBooks
-27. Using a pretrained convnet
-28. Transfer learning feature extraction
-29. Transfer learning Fine tuning
+27. [Using a pretrained convnet](27-using-a-pretrained-convnet.ipynb)
+28. [Transfer learning feature extraction](28-Transfer_learning_feature_extraction.ipynb)
+29. [Transfer learning Fine tuning](29-Transfer_learning_Fine_tuning.ipynb)
 
 </details>
 
@@ -422,7 +450,7 @@ Data Augmentation & Transfer Learning [PDF](http://class.vision/96-97/12_Data%20
 `Triplet Loss`
 
 #### 💡 Slides
-Face [PDF](http://class.vision/96-97/13-face.pdf) | [PPT](http://class.vision/96-97/13-face.pptx)
+Face [PDF](http://class.vision/96-97/13-face.pdf) • [PPT](http://class.vision/96-97/13-face.pptx)
 
 </details>
 
@@ -434,12 +462,10 @@ Face [PDF](http://class.vision/96-97/13-face.pdf) | [PPT](http://class.vision/96
 `A-softmax Loss`
 
 #### 📒 NoteBooks
-30.  Face Recognition
+30. [Face Recognition](30-FaceRecognition_verification\30-FaceRecognition.ipynb)
 
 #### 📖 Reading Materials
-A Discriminative Feature Learning Approach
-for Deep Face Recognition [PDF](http://class.vision/96-97/paper/WenECCV16.pdf)
-
+A Discriminative Feature Learning Approach for Deep Face Recognition [PDF](http://class.vision/96-97/paper/WenECCV16.pdf)
 SphereFace: Deep Hypersphere Embedding for Face Recognition [PDF](https://arxiv.org/pdf/1704.08063)
 
 </details>
@@ -455,8 +481,8 @@ SphereFace: Deep Hypersphere Embedding for Face Recognition [PDF](https://arxiv.
 `Face Detection Project Instructions`
 
 #### 📒 NoteBooks
-31. Face & Eye Detection
-32. MTCNN Detection Sample Code
+31. [Face & Eye Detection](31-Face&EyeDetection.ipynb)
+32. [MTCNN Detection Sample Code](32-detect\detect_face.py)
 
 #### 📖 Reading Materials
 Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks (MTCNN) [PDF](https://arxiv.org/pdf/1604.02878)
@@ -466,4 +492,25 @@ Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Netwo
 
 </details>
 
+
+
 ## Practices
+
+- *[P1 - Basics](http://class.vision/96-97/assignment/seri1.pdf)*
+- *[P2 - Binary images and Morphology](http://class.vision/96-97/assignment/seri2.pdf)*
+- *[P3 - Edge detection, perspective transform, and using Webcam](http://class.vision/96-97/assignment/seri3.pdf)*
+- *[P4 - KNN classifier, and Intro to Neural Networks in datacamp](http://class.vision/96-97/assignment/seri4.pdf)*
+- *[P5 - Introduction to Neural Networks](http://class.vision/96-97/assignment/seri5.pdf)*
+- *[P6 - Implement and train classifiers, and using Google Colab](http://class.vision/96-97/assignment/seri6.pdf)*
+- *[P7 - Objects Recognition using webcam](http://class.vision/96-97/assignment/seri7.pdf)*
+- 
+
+
+## quizzes
+
+- *[Convolutional Neural Networks Basics](http://class.vision/96-97/assignment/quiz1.pdf)*
+
+
+## Teamworks
+
+- *[Collecting Iranian Celebrities pictures Dataset (step 1)](http://class.vision/96-97/assignment/dataset-collection.pdf)*
