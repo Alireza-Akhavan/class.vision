@@ -471,7 +471,7 @@ SphereFace: Deep Hypersphere Embedding for Face Recognition [PDF](https://arxiv.
 </details>
 
 <details>
-<summary>S22 - <i>Dace Detection</i></summary>
+<summary>S22 - <i>Face Detection</i></summary>
 
 #### 🎯 Topics
 `Face Detection`
@@ -491,6 +491,182 @@ Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Netwo
 [Wider Face Challenge](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
 
 </details>
+
+<details>
+<summary>S23 - <i>Batch-Norm, Learning-Rate Decay, and Multi-Label Classification</i></summary>
+
+#### 🎯 Topics
+`Batch-Norm`
+`Learning-Rate Decay`
+`Multi-Label Classification in Keras`
+
+#### 💡 Slides
+Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fall97.class.vision/slides/1.pdf) • [PPT](http://fall97.class.vision/slides/1.pptx)
+
+#### 📒 NoteBooks
+33.   [Keras Multi Label (part 1)](33-keras-multi-label-part1.ipynb)
+
+#### 📝 Student notes
+- [Batch-Norm, Learning-Rate Decay](http://blog.class.vision/1397/07/batch-normalization-%d9%88-learning-rate-decay/)
+- [Multi-Label Classification](http://blog.class.vision/1397/07/multi-label-classification/)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/7hKxw)
+
+</details>
+
+<details>
+<summary>S24 - <i>A Gentle Introduction to Tensorflow (part I)</i></summary>
+
+`Multi-Label Classification (Continued)`
+`Tensorflow Low-level API`
+`Graphs, Constant Tensors, and Sessions in Tensorflow`
+
+#### 💡 Slides
+A Gentle Introduction to Tensorflow [PDF](http://fall97.class.vision/slides/2.pdf) • [PPT](http://fall97.class.vision/slides/2.pptx)
+
+#### 📒 NoteBooks
+34. [Keras Multi Label (part 2)](34-keras-multi-label-part2-load-and-test.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/iueDx)
+
+</details>
+
+<details>
+<summary>S25 - <i>A Gentle Introduction to Tensorflow (part II)</i></summary>
+
+#### 🎯 Topics
+`Placeholders and Variables`
+`Feeding and Fetching Graphs`
+
+#### 💡 Slides
+Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fall97.class.vision/slides/2.pdf) • [PPT](http://fall97.class.vision/slides/2.pptx)
+
+#### 📒 NoteBooks
+35.  [Intro to Tensorflow](35-intro-to-tensorflow.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/y4UED)
+
+</details>
+
+<details>
+<summary>S26 - <i>Implementing Dense and CNN networks for MNIST Dataset using Tensorflow</i></summary>
+
+#### 🎯 Topics
+`MNIST Dataset`
+`Fully-connected Layers`
+`CNN Layers`
+
+#### 📒 NoteBooks
+36. [MNIST Dataset in Tensorflow](36-mnist-dataset-in-tensorflow.ipynb)
+37. [Fully Connected Network MNIST Tensorflow](37-FullyConnectedNetwork-mnist-tensorflow.ipynb)
+38. [CNN MNIST Tensorflow](38-CNN-mnist-tensorflow.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/4TD3H)
+
+</details>
+
+<details>
+<summary>S27 - <i>An even more Gentle Introduction to FastAI (part I)</i></summary>
+
+#### 🎯 Topics
+`Finding Efficient Learning Rate`
+`Stochastic Gradient Descent with Restarts`
+
+#### 💡 Slides
+An even more Gentle Introduction to FastAI (part I) [PDF](http://fall97.class.vision/slides/3.pdf) • [PPT](http://fall97.class.vision/slides/3.pptx)
+
+#### 📒 NoteBooks
+39. [Intro FastAi](39-Intro-FastAi.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/BHS65)
+
+</details>
+
+<details>
+<summary>S28 - <i>An even more Gentle Introduction to FastAI (part II)</i></summary>
+
+#### 🎯 Topics
+`Global Pooling`
+`Adaptive Pooling`
+`Change Image Size Between Epochs`
+
+#### 💡 Slides
+An even more Gentle Introduction to FastAI (part II) [PDF](http://fall97.class.vision/slides/4.pdf) • [PPT](http://fall97.class.vision/slides/4.pptx)
+
+#### 📒 NoteBooks
+40. [Breeds](40-breeds.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/YgEDH)
+
+</details>
+
+<details>
+<summary>S29 - <i>An even more Gentle Introduction to FastAI (part III), and An Introduction to Recurrent Neural Networks</i></summary>
+
+#### 🎯 Topics
+`Multi-Label Classification in FastAI`
+`RNNs`
+
+#### 💡 Slides
+An Introduction to RNNs [PDF](http://fall97.class.vision/slides/5.pdf) • [PPT](http://fall97.class.vision/slides/5.pptx)
+
+#### 📒 NoteBooks
+41. [Planet Multi Label (part 3)](41-planet-multi-label-part3.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/exCYy)
+
+</details>
+
+<details>
+<summary>S30 - <i>An Introduction to Recurrent Neural Networks (part II)</i></summary>
+
+#### 🎯 Topics
+`Forward Propagation`
+`Back Propagation`
+`Language Models`
+`LSTM`
+`Vanishing Gradient`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/6.pdf) • [PPT](http://fall97.class.vision/slides/6.pptx)
+
+#### 📒 NoteBooks
+42. [Text Generation with Lstm](42-text-generation-with-lstm.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/GTtK4)
+
+</details>
+
+<details>
+<summary>S31 - <i>RNNs, LSTM, and GRU</i></summary>
+
+#### 🎯 Topics
+`Vanishing Gradient`
+`LSTM`
+`Bidirectional RNNs`
+`GRU`
+`Deep RNNs`
+`Character Level Language Models in Keras`
+
+#### 💡 Slides
+RNNs, LSTM, and GRU [PDF](http://fall97.class.vision/slides/7.pdf) • [PPT](http://fall97.class.vision/slides/7.pptx)
+
+#### 📒 NoteBooks
+43. [Basic Text Classification](43-basic_text_classification.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/XaOEz)
+
+</details>
+
 
 
 
