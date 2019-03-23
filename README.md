@@ -766,7 +766,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/11.pdf) • [P
 `Keras`
 
 #### 📒 NoteBooks
-49. [Image Captioning](49-image_captioning.ipynb)
+49. [Image Captioning](49-image_captioning\image_captioning.ipynb)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/htJcp)
@@ -804,7 +804,7 @@ Sequence to Sequence Models [PDF](http://fall97.class.vision/slides/12.pdf) • 
 Attention and Memory [PDF](http://fall97.class.vision/slides/13.pdf) • [PPT](http://fall97.class.vision/slides/13.pptx)
 
 #### 📒 NoteBooks
-50. [Machine Translation with Attention](50-machine-translation-with-attention)
+50. [Machine Translation with Attention](50-machine-translation-with-attention/Neural-machine-translation-with-attention.ipynb)
 
 </details>
 
@@ -822,7 +822,7 @@ Attention and Memory [PDF](http://fall97.class.vision/slides/13.pdf) • [PPT](h
 Speech Recognition and Trigger Word Detection using RNNs [PDF](http://fall97.class.vision/slides/14.pdf) • [PPT](http://fall97.class.vision/slides/14.pptx)
 
 #### 📒 NoteBooks
-51. [Trigger Word Detection](51-Trigger-word-detection.ipynb)
+51. [Trigger Word Detection](51-Trigger-word-detection/Trigger word detection - v1.ipynb)
 
 #### 🎞 Videos
 [aparat](https://www.aparat.com/v/cEKal)
@@ -838,7 +838,7 @@ Speech Recognition and Trigger Word Detection using RNNs [PDF](http://fall97.cla
 `RNNs`
 
 #### 📒 NoteBooks
-52. [Music Generation with LSTM](52-music-generation-with-LSTM.ipynb)
+52. [Music Generation with LSTM](/52-music-generation-with-LSTM/music-generation-with-LSTM.ipynb)
 
 #### 📦 Files
 [Excel used for Collaborative Filtering](/excel/collab_filter.xlsx)
@@ -856,8 +856,7 @@ Speech Recognition and Trigger Word Detection using RNNs [PDF](http://fall97.cla
 Neural Style Transfer [PDF](http://fall97.class.vision/slides/15.pdf) • [PPT](http://fall97.class.vision/slides/15.pptx)
 
 #### 📒 NoteBooks
-1.  [Recommendation System](53-RecommendationSystem.ipynb)
-2.  
+53.  [Recommendation System](53-RecommendationSystem.ipynb)
 </details>
 
 
