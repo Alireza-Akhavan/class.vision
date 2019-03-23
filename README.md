@@ -3,9 +3,12 @@
 ![Vision Class • SRU university](Assets/Header.jpg)
 [Blog](http://blog.class.vision/) • [Aparat](https://www.aparat.com/cvision) • [Telegram](https://t.me/class_vision)
 
-Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
+Introduction to Machine learning and Deep learning for Computer vision, A course from Shahid Rajaie University (SRU) of Tehran, Held in winter and fall of 2018.
 
-This course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`. then, continues with an **Introduction to Learning Algorithms and Neural Networks**. for the last part **Deep Neural Networks** published after 2012 are studied and are implemented using python and `Keras` Machine learning and deep learning framework. 
+> Tables Consisting content of each semester in *Persian* can be found here: [Winter 2018](http://winter96.class.vision/) • [Fall 2018](http://fall97.class.vision)
+
+Course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`. then, continues with an **Introduction to Learning Algorithms and Neural Networks** and after that, **Deep Neural Networks** published after 2012 are studied and are implemented using python and `Tensorflow`, `Keras`, and `FastAI` Machine learning and deep learning frameworks.
+
 
 ## Sessions
 
@@ -22,7 +25,7 @@ This course starts with an **Introduction to Computer Vision** with practical ap
 Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 
 #### 📒 NoteBooks
-0. [Beginning](0-Beginning.ipynb)
+1. [Beginning](0-Beginning.ipynb)
 </details>
 
 <details>
