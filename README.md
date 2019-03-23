@@ -667,7 +667,198 @@ RNNs, LSTM, and GRU [PDF](http://fall97.class.vision/slides/7.pdf) • [PPT](htt
 
 </details>
 
+<details>
+<summary>S32 - <i>Natural Language Processing</i></summary>
 
+#### 🎯 Topics
+`Word Embedding`
+`Analogy`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/8.pdf) • [PPT](http://fall97.class.vision/slides/8.pptx)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/EyUO6)
+
+</details>
+
+
+<details>
+<summary>S33 - <i>Word2Vec</i></summary>
+
+#### 🎯 Topics
+`Word2Vec`
+`Word Embedding`
+`Skip-grams`
+`Softmax Classification issues`
+`Negative Sampling`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/9.pdf) • [PPT](http://fall97.class.vision/slides/9.pptx)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/OtGqF)
+
+</details>
+
+<details>
+<summary>S34 - <i>GloVe</i></summary>
+
+#### 🎯 Topics
+`Glove`
+`Gender and Race Biases`
+`Using Embedding Vectors in Keras`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/10.pdf) • [PPT](http://fall97.class.vision/slides/10.pptx)
+
+#### 📒 NoteBooks
+44. [Using Word Embeddings](44-using-word-embeddings.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/J0Pg1)
+
+</details>
+
+<details>
+<summary>S35 - <i>Word Analogy and Text Classification in Practice</i></summary>
+
+#### 🎯 Topics
+`Word Analogy`
+`Removing Biases`
+`Word Embedding`
+`Emoji Dataset`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/11.pdf) • [PPT](http://fall97.class.vision/slides/11.pptx)
+
+#### 📒 NoteBooks
+1. [Analogy Using Embeddings](45-analogy-using-embeddings.ipynb)
+2. [Debiasing Word Vectors](46-debiasing-word-vectors.ipynb)
+3. [Text Classification - Emojify](47-text-classification-Emojify.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/dCpiB)
+
+</details>
+
+<details>
+<summary>S36 - <i>Text Generation</i></summary>
+
+#### 🎯 Topics
+`RNN`
+`Character Level Embedding`
+`Eager Execution in Tensorflow`
+
+#### 📒 NoteBooks
+48. [Text Generation on Shahnameh Tensorflow](48-text-generation-on-shahnameh-tensorflow.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/SVHB9)
+
+</details>
+
+<details>
+<summary>S37 - <i>Image Captioning</i></summary>
+
+#### 🎯 Topics
+`Image Captioning`
+`Keras`
+
+#### 📒 NoteBooks
+49. [Image Captioning](49-image_captioning.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/htJcp)
+
+#### 📦 Files
+[Required files for training model](http://deepnn.ir/class.vision/mahdizade/image_captioning.zip)
+
+</details>
+
+<details>
+<summary>S38 - <i>Sequence to Sequence Models and Machine Translation</i></summary>
+
+#### 🎯 Topics
+`Seq2Seq Models`
+`Machine Translation`
+
+#### 💡 Slides
+Sequence to Sequence Models [PDF](http://fall97.class.vision/slides/12.pdf) • [PPT](http://fall97.class.vision/slides/12.pptx)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/CBW71)
+
+</details>
+
+<details>
+<summary>S39 - <i>Attention</i></summary>
+
+#### 🎯 Topics
+`NLP`
+`Machine Translation`
+`Attention Layer`
+`Keras`
+
+#### 💡 Slides
+Attention and Memory [PDF](http://fall97.class.vision/slides/13.pdf) • [PPT](http://fall97.class.vision/slides/13.pptx)
+
+#### 📒 NoteBooks
+50. [Machine Translation with Attention](50-machine-translation-with-attention)
+
+</details>
+
+<details>
+<summary>40 - <i>Speech Recognition and Trigger Word Detection</i></summary>
+
+#### 🎯 Topics
+`Spectrogram`
+`Attention`
+`CTC`
+`Trigger Word Detection`
+`RNNs`
+
+#### 💡 Slides
+Speech Recognition and Trigger Word Detection using RNNs [PDF](http://fall97.class.vision/slides/14.pdf) • [PPT](http://fall97.class.vision/slides/14.pptx)
+
+#### 📒 NoteBooks
+51. [Trigger Word Detection](51-Trigger-word-detection.ipynb)
+
+#### 🎞 Videos
+[aparat](https://www.aparat.com/v/cEKal)
+</details>
+
+<details>
+<summary>41 - <i>Music Generation</i></summary>
+
+#### 🎯 Topics
+`Trigger Word Detection`
+`Collaborative Filtering`
+`Recommendation systems`
+`RNNs`
+
+#### 📒 NoteBooks
+52. [Music Generation with LSTM](52-music-generation-with-LSTM.ipynb)
+
+#### 📦 Files
+[Excel used for Collaborative Filtering](/excel/collab_filter.xlsx)
+
+</details>
+
+<details>
+<summary>42 - <i>Style Transfer and Book Recommendation System</i></summary>
+
+#### 🎯 Topics
+`Recommendation Systems`
+`GANs`
+
+#### 💡 Slides
+Neural Style Transfer [PDF](http://fall97.class.vision/slides/15.pdf) • [PPT](http://fall97.class.vision/slides/15.pptx)
+
+#### 📒 NoteBooks
+1.  [Recommendation System](53-RecommendationSystem.ipynb)
+2.  
+</details>
 
 
 ## Practices
@@ -679,11 +870,21 @@ RNNs, LSTM, and GRU [PDF](http://fall97.class.vision/slides/7.pdf) • [PPT](htt
 - *[P5 - Introduction to Neural Networks](http://class.vision/96-97/assignment/seri5.pdf)*
 - *[P6 - Implement and train classifiers, and using Google Colab](http://class.vision/96-97/assignment/seri6.pdf)*
 - *[P7 - Objects Recognition using webcam](http://class.vision/96-97/assignment/seri7.pdf)*
+- *[P8 - Intro to Tensorflow](http://fall97.class.vision/tamrin/seri1-tf-excersises.zip)*
+- *[P9 - LSTM, GRU, and Word Embedding](http://fall97.class.vision/tamrin/seri2.pdf)*
 
 
 ## quizzes
 
 - *[Convolutional Neural Networks Basics](http://class.vision/96-97/assignment/quiz1.pdf)*
+- *[Word Embeddings, Glove and Global pooling](http://fall97.class.vision/quiz/q2.pdf)*
+
+## Guests
+
+- *[Dr. Reza Ebrahimpour](http://ebrahimpourlab.ir/)* on Business and Graduate Studies
+- *[Mohammad Chanarin Nakhaie](https://virgool.io/@mcnakhaee)* on FastAI Introduction
+- *[Mohammad Ghodoosi](/)* on Spiky Neural Networks
+- *[Abolfazl Mehdizadeh](/)* on Image Captioning
 
 
 ## Teamworks
