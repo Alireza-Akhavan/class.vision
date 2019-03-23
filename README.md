@@ -5,12 +5,14 @@
 
 Introduction to Machine learning and Deep learning for Computer vision, A course from Shahid Rajaie University (SRU) of Tehran, Held in winter and fall of 2018.
 
-> Tables Consisting content of each semester in *Persian* can be found here: [Winter 2018](http://winter96.class.vision/) • [Fall 2018](http://fall97.class.vision)
-
-Course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`. then, continues with an **Introduction to Learning Algorithms and Neural Networks** and after that, **Deep Neural Networks** published after 2012 are studied and are implemented using python and `Tensorflow`, `Keras`, and `FastAI` Machine learning and deep learning frameworks.
+Course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`, then, continues with an **Introduction to Learning Algorithms and Neural Networks**. after that, **Deep Neural Networks** published after 2012 are studied and are implemented using python and `Tensorflow`, `Keras`, and `FastAI` Machine learning and deep learning frameworks.
 
 
 ## Sessions
+
+> Tables consisting content of each semester in *Persian* can be found here: [Winter 2018](http://winter96.class.vision/) • [Fall 2018](http://fall97.class.vision)
+
+
 
 ### Computer Vision
 
@@ -519,7 +521,7 @@ Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fal
 </details>
 
 <details>
-<summary>S24 - <i>A Gentle Introduction to Tensorflow (part I)</i></summary>
+<summary>S24 - <i>A Gentle Introduction to Tensorflow (1)</i></summary>
 
 `Multi-Label Classification (Continued)`
 `Tensorflow Low-level API`
@@ -537,7 +539,7 @@ A Gentle Introduction to Tensorflow [PDF](http://fall97.class.vision/slides/2.pd
 </details>
 
 <details>
-<summary>S25 - <i>A Gentle Introduction to Tensorflow (part II)</i></summary>
+<summary>S25 - <i>A Gentle Introduction to Tensorflow (2)</i></summary>
 
 #### 🎯 Topics
 `Placeholders and Variables`
@@ -573,14 +575,14 @@ Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fal
 </details>
 
 <details>
-<summary>S27 - <i>An even more Gentle Introduction to FastAI (part I)</i></summary>
+<summary>S27 - <i>An even more Gentle Introduction to FastAI (1)</i></summary>
 
 #### 🎯 Topics
 `Finding Efficient Learning Rate`
 `Stochastic Gradient Descent with Restarts`
 
 #### 💡 Slides
-An even more Gentle Introduction to FastAI (part I) [PDF](http://fall97.class.vision/slides/3.pdf) • [PPT](http://fall97.class.vision/slides/3.pptx)
+An even more Gentle Introduction to FastAI (1) [PDF](http://fall97.class.vision/slides/3.pdf) • [PPT](http://fall97.class.vision/slides/3.pptx)
 
 #### 📒 NoteBooks
 39. [Intro FastAi](39-Intro-FastAi.ipynb)
@@ -591,7 +593,7 @@ An even more Gentle Introduction to FastAI (part I) [PDF](http://fall97.class.vi
 </details>
 
 <details>
-<summary>S28 - <i>An even more Gentle Introduction to FastAI (part II)</i></summary>
+<summary>S28 - <i>An even more Gentle Introduction to FastAI (2)</i></summary>
 
 #### 🎯 Topics
 `Global Pooling`
@@ -599,7 +601,7 @@ An even more Gentle Introduction to FastAI (part I) [PDF](http://fall97.class.vi
 `Change Image Size Between Epochs`
 
 #### 💡 Slides
-An even more Gentle Introduction to FastAI (part II) [PDF](http://fall97.class.vision/slides/4.pdf) • [PPT](http://fall97.class.vision/slides/4.pptx)
+An even more Gentle Introduction to FastAI (2) [PDF](http://fall97.class.vision/slides/4.pdf) • [PPT](http://fall97.class.vision/slides/4.pptx)
 
 #### 📒 NoteBooks
 40. [Breeds](40-breeds.ipynb)
@@ -610,7 +612,7 @@ An even more Gentle Introduction to FastAI (part II) [PDF](http://fall97.class.v
 </details>
 
 <details>
-<summary>S29 - <i>An even more Gentle Introduction to FastAI (part III), and An Introduction to Recurrent Neural Networks</i></summary>
+<summary>S29 - <i>An even more Gentle Introduction to FastAI (3) and An Introduction to Recurrent Neural Networks</i></summary>
 
 #### 🎯 Topics
 `Multi-Label Classification in FastAI`
@@ -628,7 +630,7 @@ An Introduction to RNNs [PDF](http://fall97.class.vision/slides/5.pdf) • [PPT]
 </details>
 
 <details>
-<summary>S30 - <i>An Introduction to Recurrent Neural Networks (part II)</i></summary>
+<summary>S30 - <i>An Introduction to Recurrent Neural Networks (2)</i></summary>
 
 #### 🎯 Topics
 `Forward Propagation`
