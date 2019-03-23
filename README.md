@@ -92,7 +92,7 @@ Image manipulations (1) [PDF](http://class.vision/96-97/02_Image%20manipulations
 - [Image manipulations part 3](http://blog.class.vision/1396/12/image-manipulations-part3/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/vaYxt)
+[Aparat](https://www.aparat.com/v/vaYxt)
 
 </details>
 
@@ -122,7 +122,7 @@ Image manipulations (2) [PDF](http://class.vision/96-97/03_Image%20manipulations
 - [Image manipulations part 6](http://blog.class.vision/1396/12/image-manipulations-part6/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/W8deM)
+[Aparat](https://www.aparat.com/v/W8deM)
 
 </details>
 
@@ -148,7 +148,7 @@ Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) 
 - [Morphology, opening and closing](http://blog.class.vision/1396/12/morphology-opening-closing/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/tMB7C)
+[Aparat](https://www.aparat.com/v/tMB7C)
 
 </details>
 
@@ -178,7 +178,7 @@ Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) • [PPT](http://cl
 - [Using webcam in Opencv](http://blog.class.vision/1396/12/using-webcam-in-opencv/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/UyuVf)
+[Aparat](https://www.aparat.com/v/UyuVf)
 
 </details>
 
@@ -232,7 +232,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 - [Introduction to Neural networks (part 2)](http://blog.class.vision/1396/12/introduction-to-neural-networks-part2/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/THo7D)
+[Aparat](https://www.aparat.com/v/THo7D)
 
 </details>
 
@@ -245,7 +245,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 `Model Visualization`
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/T4OqM)
+[Aparat](https://www.aparat.com/v/T4OqM)
 
 #### 🔗 links
 Model Visualization and observing changes in number of each layer using [Tensorflow Playground](http://playground.tensorflow.org/)
@@ -269,7 +269,7 @@ Model Visualization and observing changes in number of each layer using [Tensorf
 - [Introduction to implementing sequential models in Keras](http://blog.class.vision/1397/02/sequential-model-keras/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/E3cK6)
+[Aparat](https://www.aparat.com/v/E3cK6)
 
 </details>
 
@@ -299,7 +299,7 @@ Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class
 - [Introduction to Convolutional Neural Networks](http://blog.class.vision/1397/02/intro-convolutional-neural-network/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/JMAlZ)
+[Aparat](https://www.aparat.com/v/JMAlZ)
 
 </details>
 
@@ -322,7 +322,7 @@ Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class
 Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pdf) • [PPT](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pptx)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/6wZSr)
+[Aparat](https://www.aparat.com/v/6wZSr)
 
 </details>
 
@@ -341,7 +341,7 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 23. [Convolutional Neural Network: Hoda + Keras](23-ConvolutionalNeuralNetwork-Hoda-Keras.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/54W6Y)
+[Aparat](https://www.aparat.com/v/54W6Y)
 
 </details>
 
@@ -362,7 +362,7 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 - [Training a Convolutional Neural Networks in Keras](http://blog.class.vision/1397/03/train-convolutional-neural-network-in-keras/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/2R0a7)
+[Aparat](https://www.aparat.com/v/2R0a7)
 
 </details>
 
@@ -383,7 +383,7 @@ Case Studies [PDF](http://class.vision/96-97/11_CNN-caseStudy.pdf) • [PPT](htt
 - [Famous Convolutional Neural Networks Architectures](http://blog.class.vision/1397/03/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/qUXnJ)
+[Aparat](https://www.aparat.com/v/qUXnJ)
 
 #### 📖 Reading Materials
 [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -516,7 +516,7 @@ Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fal
 - [Multi-Label Classification](http://blog.class.vision/1397/07/multi-label-classification/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/7hKxw)
+[Aparat](https://www.aparat.com/v/7hKxw)
 
 </details>
 
@@ -534,7 +534,7 @@ A Gentle Introduction to Tensorflow [PDF](http://fall97.class.vision/slides/2.pd
 34. [Keras Multi Label (part 2)](34-keras-multi-label-part2-load-and-test.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/iueDx)
+[Aparat](https://www.aparat.com/v/iueDx)
 
 </details>
 
@@ -552,7 +552,7 @@ Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fal
 35.  [Intro to Tensorflow](35-intro-to-tensorflow.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/y4UED)
+[Aparat](https://www.aparat.com/v/y4UED)
 
 </details>
 
@@ -570,7 +570,7 @@ Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fal
 38. [CNN MNIST Tensorflow](38-CNN-mnist-tensorflow.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/4TD3H)
+[Aparat](https://www.aparat.com/v/4TD3H)
 
 </details>
 
@@ -588,7 +588,7 @@ An even more Gentle Introduction to FastAI (1) [PDF](http://fall97.class.vision/
 39. [Intro FastAi](39-Intro-FastAi.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/BHS65)
+[Aparat](https://www.aparat.com/v/BHS65)
 
 </details>
 
@@ -607,7 +607,7 @@ An even more Gentle Introduction to FastAI (2) [PDF](http://fall97.class.vision/
 40. [Breeds](40-breeds.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/YgEDH)
+[Aparat](https://www.aparat.com/v/YgEDH)
 
 </details>
 
@@ -625,7 +625,7 @@ An Introduction to RNNs [PDF](http://fall97.class.vision/slides/5.pdf) • [PPT]
 41. [Planet Multi Label (part 3)](41-planet-multi-label-part3.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/exCYy)
+[Aparat](https://www.aparat.com/v/exCYy)
 
 </details>
 
@@ -646,7 +646,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/6.pdf) • [PP
 42. [Text Generation with Lstm](42-text-generation-with-lstm.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/GTtK4)
+[Aparat](https://www.aparat.com/v/GTtK4)
 
 </details>
 
@@ -668,7 +668,7 @@ RNNs, LSTM, and GRU [PDF](http://fall97.class.vision/slides/7.pdf) • [PPT](htt
 43. [Basic Text Classification](43-basic_text_classification.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/XaOEz)
+[Aparat](https://www.aparat.com/v/XaOEz)
 
 </details>
 
@@ -683,7 +683,7 @@ RNNs, LSTM, and GRU [PDF](http://fall97.class.vision/slides/7.pdf) • [PPT](htt
 Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/8.pdf) • [PPT](http://fall97.class.vision/slides/8.pptx)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/EyUO6)
+[Aparat](https://www.aparat.com/v/EyUO6)
 
 </details>
 
@@ -702,7 +702,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/8.pdf) • [PP
 Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/9.pdf) • [PPT](http://fall97.class.vision/slides/9.pptx)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/OtGqF)
+[Aparat](https://www.aparat.com/v/OtGqF)
 
 </details>
 
@@ -721,7 +721,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/10.pdf) • [P
 44. [Using Word Embeddings](44-using-word-embeddings.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/J0Pg1)
+[Aparat](https://www.aparat.com/v/J0Pg1)
 
 </details>
 
@@ -743,7 +743,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/11.pdf) • [P
 3. [Text Classification - Emojify](47-text-classification-Emojify.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/dCpiB)
+[Aparat](https://www.aparat.com/v/dCpiB)
 
 </details>
 
@@ -759,7 +759,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/11.pdf) • [P
 48. [Text Generation on Shahnameh Tensorflow](48-text-generation-on-shahnameh-tensorflow.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/SVHB9)
+[Aparat](https://www.aparat.com/v/SVHB9)
 
 </details>
 
@@ -774,7 +774,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/11.pdf) • [P
 49. [Image Captioning](49-image_captioning\image_captioning.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/htJcp)
+[Aparat](https://www.aparat.com/v/htJcp)
 
 #### 📦 Files
 [Required files for training model](http://deepnn.ir/class.vision/mahdizade/image_captioning.zip)
@@ -792,7 +792,7 @@ Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/11.pdf) • [P
 Sequence to Sequence Models [PDF](http://fall97.class.vision/slides/12.pdf) • [PPT](http://fall97.class.vision/slides/12.pptx)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/CBW71)
+[Aparat](https://www.aparat.com/v/CBW71)
 
 </details>
 
@@ -830,7 +830,7 @@ Speech Recognition and Trigger Word Detection using RNNs [PDF](http://fall97.cla
 51. [Trigger Word Detection](51-Trigger-word-detection/Trigger word detection - v1.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/cEKal)
+[Aparat](https://www.aparat.com/v/cEKal)
 </details>
 
 <details>
