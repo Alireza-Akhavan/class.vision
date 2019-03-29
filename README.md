@@ -3,11 +3,16 @@
 ![Vision Class • SRU university](Assets/Header.jpg)
 [Blog](http://blog.class.vision/) • [Aparat](https://www.aparat.com/cvision) • [Telegram](https://t.me/class_vision)
 
-Introduction to Machine learning and Deep learning for Computer vision, A course from SRU university of Tehran.
+Introduction to Machine learning and Deep learning for Computer vision, A course from Shahid Rajaie University (SRU) of Tehran, Held in winter and fall of 2018.
 
-This course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`. then, continues with an **Introduction to Learning Algorithms and Neural Networks**. for the last part **Deep Neural Networks** published after 2012 are studied and are implemented using python and `Keras` Machine learning and deep learning framework. 
+Course starts with an **Introduction to Computer Vision** with practical approach using `opencv` on `python`, then, continues with an **Introduction to Learning Algorithms and Neural Networks**. after that, **Deep Neural Networks** published after 2012 are studied and are implemented using python and `Tensorflow`, `Keras`, and `FastAI` Machine learning and deep learning frameworks.
+
 
 ## Sessions
+
+> Tables consisting content of each semester in *Persian* can be found here: [Winter 2018](http://winter96.class.vision/) • [Fall 2018](http://fall97.class.vision)
+
+
 
 ### Computer Vision
 
@@ -22,7 +27,7 @@ This course starts with an **Introduction to Computer Vision** with practical ap
 Introduction [PDF](http://class.vision/96-97/01_intro.pdf)
 
 #### 📒 NoteBooks
-0. [Beginning](0-Beginning.ipynb)
+1. [Beginning](0-Beginning.ipynb)
 </details>
 
 <details>
@@ -87,7 +92,7 @@ Image manipulations (1) [PDF](http://class.vision/96-97/02_Image%20manipulations
 - [Image manipulations part 3](http://blog.class.vision/1396/12/image-manipulations-part3/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/vaYxt)
+[Aparat](https://www.aparat.com/v/vaYxt)
 
 </details>
 
@@ -117,7 +122,7 @@ Image manipulations (2) [PDF](http://class.vision/96-97/03_Image%20manipulations
 - [Image manipulations part 6](http://blog.class.vision/1396/12/image-manipulations-part6/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/W8deM)
+[Aparat](https://www.aparat.com/v/W8deM)
 
 </details>
 
@@ -143,7 +148,7 @@ Binary Images and Morphology [PDF](http://class.vision/96-97/04_Morphology.pdf) 
 - [Morphology, opening and closing](http://blog.class.vision/1396/12/morphology-opening-closing/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/tMB7C)
+[Aparat](https://www.aparat.com/v/tMB7C)
 
 </details>
 
@@ -173,7 +178,7 @@ Edge Detection [PDF](http://class.vision/96-97/05_Edges.pdf) • [PPT](http://cl
 - [Using webcam in Opencv](http://blog.class.vision/1396/12/using-webcam-in-opencv/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/UyuVf)
+[Aparat](https://www.aparat.com/v/UyuVf)
 
 </details>
 
@@ -227,7 +232,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 - [Introduction to Neural networks (part 2)](http://blog.class.vision/1396/12/introduction-to-neural-networks-part2/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/THo7D)
+[Aparat](https://www.aparat.com/v/THo7D)
 
 </details>
 
@@ -240,7 +245,7 @@ Introduction to Neural Networks [PDF](http://class.vision/96-97/08_Introduction%
 `Model Visualization`
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/T4OqM)
+[Aparat](https://www.aparat.com/v/T4OqM)
 
 #### 🔗 links
 Model Visualization and observing changes in number of each layer using [Tensorflow Playground](http://playground.tensorflow.org/)
@@ -264,7 +269,7 @@ Model Visualization and observing changes in number of each layer using [Tensorf
 - [Introduction to implementing sequential models in Keras](http://blog.class.vision/1397/02/sequential-model-keras/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/E3cK6)
+[Aparat](https://www.aparat.com/v/E3cK6)
 
 </details>
 
@@ -294,7 +299,7 @@ Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class
 - [Introduction to Convolutional Neural Networks](http://blog.class.vision/1397/02/intro-convolutional-neural-network/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/JMAlZ)
+[Aparat](https://www.aparat.com/v/JMAlZ)
 
 </details>
 
@@ -317,7 +322,7 @@ Introduction to Deep Learning & Convolutional Neural Networks [PDF](http://class
 Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pdf) • [PPT](http://class.vision/96-97/10_Convolutional%20Neural%20Networks.pptx)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/6wZSr)
+[Aparat](https://www.aparat.com/v/6wZSr)
 
 </details>
 
@@ -336,7 +341,7 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 23. [Convolutional Neural Network: Hoda + Keras](23-ConvolutionalNeuralNetwork-Hoda-Keras.ipynb)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/54W6Y)
+[Aparat](https://www.aparat.com/v/54W6Y)
 
 </details>
 
@@ -357,7 +362,7 @@ Convolutional Neural Networks [PDF](http://class.vision/96-97/10_Convolutional%2
 - [Training a Convolutional Neural Networks in Keras](http://blog.class.vision/1397/03/train-convolutional-neural-network-in-keras/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/2R0a7)
+[Aparat](https://www.aparat.com/v/2R0a7)
 
 </details>
 
@@ -378,7 +383,7 @@ Case Studies [PDF](http://class.vision/96-97/11_CNN-caseStudy.pdf) • [PPT](htt
 - [Famous Convolutional Neural Networks Architectures](http://blog.class.vision/1397/03/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet/)
 
 #### 🎞 Videos
-[aparat](https://www.aparat.com/v/qUXnJ)
+[Aparat](https://www.aparat.com/v/qUXnJ)
 
 #### 📖 Reading Materials
 [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -471,7 +476,7 @@ SphereFace: Deep Hypersphere Embedding for Face Recognition [PDF](https://arxiv.
 </details>
 
 <details>
-<summary>S22 - <i>Dace Detection</i></summary>
+<summary>S22 - <i>Face Detection</i></summary>
 
 #### 🎯 Topics
 `Face Detection`
@@ -492,6 +497,372 @@ Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Netwo
 
 </details>
 
+<details>
+<summary>S23 - <i>Batch-Norm, Learning-Rate Decay, and Multi-Label Classification</i></summary>
+
+#### 🎯 Topics
+`Batch-Norm`
+`Learning-Rate Decay`
+`Multi-Label Classification in Keras`
+
+#### 💡 Slides
+Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fall97.class.vision/slides/1.pdf) • [PPT](http://fall97.class.vision/slides/1.pptx)
+
+#### 📒 NoteBooks
+33.   [Keras Multi Label (part 1)](33-keras-multi-label-part1.ipynb)
+
+#### 📝 Student notes
+- [Batch-Norm, Learning-Rate Decay](http://blog.class.vision/1397/07/batch-normalization-%d9%88-learning-rate-decay/)
+- [Multi-Label Classification](http://blog.class.vision/1397/07/multi-label-classification/)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/7hKxw)
+
+</details>
+
+<details>
+<summary>S24 - <i>A Gentle Introduction to Tensorflow (1)</i></summary>
+
+`Multi-Label Classification (Continued)`
+`Tensorflow Low-level API`
+`Graphs, Constant Tensors, and Sessions in Tensorflow`
+
+#### 💡 Slides
+A Gentle Introduction to Tensorflow [PDF](http://fall97.class.vision/slides/2.pdf) • [PPT](http://fall97.class.vision/slides/2.pptx)
+
+#### 📒 NoteBooks
+34. [Keras Multi Label (part 2)](34-keras-multi-label-part2-load-and-test.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/iueDx)
+
+</details>
+
+<details>
+<summary>S25 - <i>A Gentle Introduction to Tensorflow (2)</i></summary>
+
+#### 🎯 Topics
+`Placeholders and Variables`
+`Feeding and Fetching Graphs`
+
+#### 💡 Slides
+Batch-Norm, Learning-Rate Decay, and Multi-Label Classification [PDF](http://fall97.class.vision/slides/2.pdf) • [PPT](http://fall97.class.vision/slides/2.pptx)
+
+#### 📒 NoteBooks
+35.  [Intro to Tensorflow](35-intro-to-tensorflow.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/y4UED)
+
+</details>
+
+<details>
+<summary>S26 - <i>Implementing Dense and CNN networks for MNIST Dataset using Tensorflow</i></summary>
+
+#### 🎯 Topics
+`MNIST Dataset`
+`Fully-connected Layers`
+`CNN Layers`
+
+#### 📒 NoteBooks
+36. [MNIST Dataset in Tensorflow](36-mnist-dataset-in-tensorflow.ipynb)
+37. [Fully Connected Network MNIST Tensorflow](37-FullyConnectedNetwork-mnist-tensorflow.ipynb)
+38. [CNN MNIST Tensorflow](38-CNN-mnist-tensorflow.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/4TD3H)
+
+</details>
+
+<details>
+<summary>S27 - <i>An even more Gentle Introduction to FastAI (1)</i></summary>
+
+#### 🎯 Topics
+`Finding Efficient Learning Rate`
+`Stochastic Gradient Descent with Restarts`
+
+#### 💡 Slides
+An even more Gentle Introduction to FastAI (1) [PDF](http://fall97.class.vision/slides/3.pdf) • [PPT](http://fall97.class.vision/slides/3.pptx)
+
+#### 📒 NoteBooks
+39. [Intro FastAi](39-Intro-FastAi.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/BHS65)
+
+</details>
+
+<details>
+<summary>S28 - <i>An even more Gentle Introduction to FastAI (2)</i></summary>
+
+#### 🎯 Topics
+`Global Pooling`
+`Adaptive Pooling`
+`Change Image Size Between Epochs`
+
+#### 💡 Slides
+An even more Gentle Introduction to FastAI (2) [PDF](http://fall97.class.vision/slides/4.pdf) • [PPT](http://fall97.class.vision/slides/4.pptx)
+
+#### 📒 NoteBooks
+40. [Breeds](40-breeds.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/YgEDH)
+
+</details>
+
+<details>
+<summary>S29 - <i>An even more Gentle Introduction to FastAI (3) and An Introduction to Recurrent Neural Networks</i></summary>
+
+#### 🎯 Topics
+`Multi-Label Classification in FastAI`
+`RNNs`
+
+#### 💡 Slides
+An Introduction to RNNs [PDF](http://fall97.class.vision/slides/5.pdf) • [PPT](http://fall97.class.vision/slides/5.pptx)
+
+#### 📒 NoteBooks
+41. [Planet Multi Label (part 3)](41-planet-multi-label-part3.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/exCYy)
+
+</details>
+
+<details>
+<summary>S30 - <i>An Introduction to Recurrent Neural Networks (2)</i></summary>
+
+#### 🎯 Topics
+`Forward Propagation`
+`Back Propagation`
+`Language Models`
+`LSTM`
+`Vanishing Gradient`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/6.pdf) • [PPT](http://fall97.class.vision/slides/6.pptx)
+
+#### 📒 NoteBooks
+42. [Text Generation with Lstm](42-text-generation-with-lstm.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/GTtK4)
+
+</details>
+
+<details>
+<summary>S31 - <i>RNNs, LSTM, and GRU</i></summary>
+
+#### 🎯 Topics
+`Vanishing Gradient`
+`LSTM`
+`Bidirectional RNNs`
+`GRU`
+`Deep RNNs`
+`Character Level Language Models in Keras`
+
+#### 💡 Slides
+RNNs, LSTM, and GRU [PDF](http://fall97.class.vision/slides/7.pdf) • [PPT](http://fall97.class.vision/slides/7.pptx)
+
+#### 📒 NoteBooks
+43. [Basic Text Classification](43-basic_text_classification.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/XaOEz)
+
+</details>
+
+<details>
+<summary>S32 - <i>Natural Language Processing</i></summary>
+
+#### 🎯 Topics
+`Word Embedding`
+`Analogy`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/8.pdf) • [PPT](http://fall97.class.vision/slides/8.pptx)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/EyUO6)
+
+</details>
+
+
+<details>
+<summary>S33 - <i>Word2Vec</i></summary>
+
+#### 🎯 Topics
+`Word2Vec`
+`Word Embedding`
+`Skip-grams`
+`Softmax Classification issues`
+`Negative Sampling`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/9.pdf) • [PPT](http://fall97.class.vision/slides/9.pptx)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/OtGqF)
+
+</details>
+
+<details>
+<summary>S34 - <i>GloVe</i></summary>
+
+#### 🎯 Topics
+`Glove`
+`Gender and Race Biases`
+`Using Embedding Vectors in Keras`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/10.pdf) • [PPT](http://fall97.class.vision/slides/10.pptx)
+
+#### 📒 NoteBooks
+44. [Using Word Embeddings](44-using-word-embeddings.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/J0Pg1)
+
+</details>
+
+<details>
+<summary>S35 - <i>Word Analogy and Text Classification in Practice</i></summary>
+
+#### 🎯 Topics
+`Word Analogy`
+`Removing Biases`
+`Word Embedding`
+`Emoji Dataset`
+
+#### 💡 Slides
+Recurrent Neural Networks [PDF](http://fall97.class.vision/slides/11.pdf) • [PPT](http://fall97.class.vision/slides/11.pptx)
+
+#### 📒 NoteBooks
+1. [Analogy Using Embeddings](45-analogy-using-embeddings.ipynb)
+2. [Debiasing Word Vectors](46-debiasing-word-vectors.ipynb)
+3. [Text Classification - Emojify](47-text-classification-Emojify.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/dCpiB)
+
+</details>
+
+<details>
+<summary>S36 - <i>Text Generation</i></summary>
+
+#### 🎯 Topics
+`RNN`
+`Character Level Embedding`
+`Eager Execution in Tensorflow`
+
+#### 📒 NoteBooks
+48. [Text Generation on Shahnameh Tensorflow](48-text-generation-on-shahnameh-tensorflow.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/SVHB9)
+
+</details>
+
+<details>
+<summary>S37 - <i>Image Captioning</i></summary>
+
+#### 🎯 Topics
+`Image Captioning`
+`Keras`
+
+#### 📒 NoteBooks
+49. [Image Captioning](49-image_captioning\image_captioning.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/htJcp)
+
+#### 📦 Files
+[Required files for training model](http://deepnn.ir/class.vision/mahdizade/image_captioning.zip)
+
+</details>
+
+<details>
+<summary>S38 - <i>Sequence to Sequence Models and Machine Translation</i></summary>
+
+#### 🎯 Topics
+`Seq2Seq Models`
+`Machine Translation`
+
+#### 💡 Slides
+Sequence to Sequence Models [PDF](http://fall97.class.vision/slides/12.pdf) • [PPT](http://fall97.class.vision/slides/12.pptx)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/CBW71)
+
+</details>
+
+<details>
+<summary>S39 - <i>Attention</i></summary>
+
+#### 🎯 Topics
+`NLP`
+`Machine Translation`
+`Attention Layer`
+`Keras`
+
+#### 💡 Slides
+Attention and Memory [PDF](http://fall97.class.vision/slides/13.pdf) • [PPT](http://fall97.class.vision/slides/13.pptx)
+
+#### 📒 NoteBooks
+50. [Machine Translation with Attention](50-machine-translation-with-attention/Neural-machine-translation-with-attention.ipynb)
+
+</details>
+
+<details>
+<summary>40 - <i>Speech Recognition and Trigger Word Detection</i></summary>
+
+#### 🎯 Topics
+`Spectrogram`
+`Attention`
+`CTC`
+`Trigger Word Detection`
+`RNNs`
+
+#### 💡 Slides
+Speech Recognition and Trigger Word Detection using RNNs [PDF](http://fall97.class.vision/slides/14.pdf) • [PPT](http://fall97.class.vision/slides/14.pptx)
+
+#### 📒 NoteBooks
+51. [Trigger Word Detection](51-Trigger-word-detection/Trigger word detection - v1.ipynb)
+
+#### 🎞 Videos
+[Aparat](https://www.aparat.com/v/cEKal)
+</details>
+
+<details>
+<summary>41 - <i>Music Generation</i></summary>
+
+#### 🎯 Topics
+`Trigger Word Detection`
+`Collaborative Filtering`
+`Recommendation systems`
+`RNNs`
+
+#### 📒 NoteBooks
+52. [Music Generation with LSTM](/52-music-generation-with-LSTM/music-generation-with-LSTM.ipynb)
+
+#### 📦 Files
+[Excel used for Collaborative Filtering](/excel/collab_filter.xlsx)
+
+</details>
+
+<details>
+<summary>42 - <i>Style Transfer and Book Recommendation System</i></summary>
+
+#### 🎯 Topics
+`Recommendation Systems`
+`GANs`
+
+#### 💡 Slides
+Neural Style Transfer [PDF](http://fall97.class.vision/slides/15.pdf) • [PPT](http://fall97.class.vision/slides/15.pptx)
+
+#### 📒 NoteBooks
+53.  [Recommendation System](53-RecommendationSystem.ipynb)
+</details>
 
 
 ## Practices
@@ -503,11 +874,21 @@ Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Netwo
 - *[P5 - Introduction to Neural Networks](http://class.vision/96-97/assignment/seri5.pdf)*
 - *[P6 - Implement and train classifiers, and using Google Colab](http://class.vision/96-97/assignment/seri6.pdf)*
 - *[P7 - Objects Recognition using webcam](http://class.vision/96-97/assignment/seri7.pdf)*
+- *[P8 - Intro to Tensorflow](http://fall97.class.vision/tamrin/seri1-tf-excersises.zip)*
+- *[P9 - LSTM, GRU, and Word Embedding](http://fall97.class.vision/tamrin/seri2.pdf)*
 
 
 ## quizzes
 
 - *[Convolutional Neural Networks Basics](http://class.vision/96-97/assignment/quiz1.pdf)*
+- *[Word Embeddings, Glove and Global pooling](http://fall97.class.vision/quiz/q2.pdf)*
+
+## Guests
+
+- *[Dr. Reza Ebrahimpour](http://ebrahimpourlab.ir/)* on Business and Graduate Studies
+- *[Mohammad Chanarin Nakhaie](https://virgool.io/@mcnakhaee)* on FastAI Introduction
+- *[Mohammad Ghodoosi](/)* on Spiky Neural Networks
+- *[Abolfazl Mehdizadeh](/)* on Image Captioning
 
 
 ## Teamworks
