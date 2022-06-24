@@ -6,7 +6,7 @@ If you are looking for an older version of the tutorials and notebooks that was 
 
 # Topics
 
-## Section 1
+## Module 1
 ### Introduction to image, basic image operations, and mathematical operations on images
 - [01-reading-writing-and-displaying-images.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/01-reading-writing-and-displaying-images.ipynb)
 - [02-Grayscaling.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/02-Grayscaling.ipynb)
