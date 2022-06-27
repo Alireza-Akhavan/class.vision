@@ -21,7 +21,7 @@ If you are looking for an older version of the tutorials and notebooks that was 
 
 ## Module 2
 ### OpenCV GUI(HighGUI) in Python and Callbacks
- - [11-Mouse-event-with-highgui.ipynb]([11-Mouse-event-with-highgui.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/11-Mouse-event-with-highgui.ipynb)
+ - [11-Mouse-event-with-highgui.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/11-Mouse-event-with-highgui.ipynb)
  - [12-Trackbar-in-OpenCV-with-highgui.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/12-Trackbar-in-OpenCV-with-highgui.ipynb)
 ### Load and Save Video, and working with webcam, CCTV, and screenRecord in python
 - [13-Using-webcam.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/13-Using-webcam.ipynb)
