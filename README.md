@@ -47,6 +47,34 @@ If you are looking for an older version of the tutorials and notebooks that was 
 ### 2. Morphological Transformations (Erosion / Dilation /Opening / Closing / ...)
  - [22-Dilation-erosion-opening-and-closing.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/22-Dilation-erosion-opening-and-closing.ipynb)
  - [23-Hit-or-miss.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/23-Hit-or-miss.ipynb)
+ - [24-remove-horizental-line.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/24-remove-horizental-line.ipynb)
+ - [25-Connected_components.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/25-Connected_components.ipynb)
+ - [26-Finding_contours.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/26-Finding_contours.ipynb)
+ - [27-Convex-hull.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/27-Convex-hull.ipynb)
+ - [28-Contour-boundingbox-and-enclosing-circle.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/28-Contour-boundingbox-and-enclosing-circle.ipynb)
+ - [29-contour-moments-and-area.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/29-contour-moments-and-area.ipynb)
+ - [30-ApproxPolyDP.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/30-ApproxPolyDP.ipynb)
+ - [31-Simple-word-detection-in-text.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/31-Simple-word-detection-in-text.ipynb)
+ - [32-Simple-coint-counter.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/32-Simple-coint-counter.ipynb)
+ - [33-Blob-detection.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/33-Blob-detection.ipynb)
+
+# Module 4: Image Enhancement and Filtering
+### 1. Color Spaces
+
+ - [34-Simlple-color-filtering.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/34-Simlple-color-filtering.ipynb)
+ - [35-Color-tracker.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/35-Color-tracker.ipynb)
+ - [36-Other-color-spaces.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/36-Other-color-spaces.ipynb)
+ - [37-Green-screen-removal.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/37-Green-screen-removal.ipynb)
+ - [38-color-pop-effect.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/38-color-pop-effect.ipynb)
+ - [39-what-is-clustering.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/39-what-is-clustering.ipynb)
+ - [40-Dominant-colors-by-clustering.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/40-Dominant-colors-by-clustering.ipynb)
+
+### 2. Color Transforms
+ - [41-histogram.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/41-histogram.ipynb)
+ - [42-dominant-color-by-histogram.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/42-dominant-color-by-histogram.ipynb)
+ - [43-histogram-equalization.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/43-histogram-equalization.ipynb)
+ - [44-Advanced-histogram-equalization-CLAHE.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/44-Advanced-histogram-equalization-CLAHE.ipynb)
+ - [45-Histogram-comparison.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/45-Histogram-comparison.ipynb)
 
 ------
 # Other related material and courses
