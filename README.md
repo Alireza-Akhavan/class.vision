@@ -79,6 +79,8 @@ If you are looking for an older version of the tutorials and notebooks that was 
 ### 3. Image Filtering and Image Smoothing
  - [46-Filters-denoising-and-blurring.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/46-Filters-denoising-and-blurring.ipynb)
  - [47-Sharpening.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/47-Sharpening.ipynb)
+
+### 4. Image Gradients
  - [48-Simple-edge-detection-with-image-gradients.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/48-Simple-edge-detection-with-image-gradients.ipynb)
  - [49-sobel-edge-detector.ipynb)](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/49-sobel-edge-detector.ipynb)
  - [50-Laplacian-edge-detector.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/50-Laplacian-edge-detector.ipynb)
