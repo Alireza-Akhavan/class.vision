@@ -89,7 +89,15 @@ If you are looking for an older version of the tutorials and notebooks that was 
 # Module 5 : Advanced Image Processing and Computational Photography
 ### 1. Hough Transforms
  - [53-Hough-line.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/53-Hough-line.ipynb)
+ - [54-Hough-line-project-clock.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/54-Hough-line-project-clock.ipynb)
+ - [55-Hough-circle.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/55-Hough-circle.ipynb)
+### 2. High Dynamic Range Imaging
+ - [56-HDR.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/56-HDR.ipynb)
+### 3. Seamless Cloning
+ - [57-Seamless-clone.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/57-Seamless-clone.ipynb)
+### 4. Image Inpainting
 
+# Module 6 : Geometric Transforms and Image Features
 ------
 # Other related material and courses
 
