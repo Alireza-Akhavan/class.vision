@@ -98,6 +98,12 @@ If you are looking for an older version of the tutorials and notebooks that was 
 ### 4. Image Inpainting
 
 # Module 6 : Geometric Transforms and Image Features
+### 1. Geometric Transforms
+
+
+
+
+
 ------
 # Other related material and courses
 
