@@ -96,13 +96,26 @@ If you are looking for an older version of the tutorials and notebooks that was 
 ### 3. Seamless Cloning
  - [57-Seamless-clone.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/57-Seamless-clone.ipynb)
 ### 4. Image Inpainting
-
+ - [58-Image-inpainting.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/58-Image-inpainting.ipynb)
+ - [59-illumination-change.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/59-illumination-change.ipynb)
+ 
 # Module 6 : Geometric Transforms and Image Features
 ### 1. Geometric Transforms
+ - [60-Translations.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/60-Translations.ipynb)
+ - [61-Rotations.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/61-Rotations.ipynb)
+ - [62-Scaling-resizing-and-interpolations.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/62-Scaling-resizing-and-interpolations.ipynb)
+ - [63-getAffineTransform.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/63-getAffineTransform.ipynb)
+ - [64-Perspective-transformation.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/64-Perspective-transformation.ipynb)
 
-
-
-
+### 2. Image Features
+ - [65-Harris-corner-detector.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/65-Harris-corner-detector.ipynb)
+ - [66-Shi-Tomasi-corner-detector.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/66-Shi-Tomasi-corner-detector.ipynb)
+ - [67-DOG.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/67-DOG.ipynb)
+ - [68-Sift.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/68-Sift.ipynb)
+ - [69-ORB.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/69-ORB.ipynb)
+ - [70-Feature-matching.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/70-Feature-matching.ipynb)
+ - [71-Finding-objects-with-feature-matching-and-homography.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/71-Finding-objects-with-feature-matching-and-homography.ipynb)
+ - [72_panorama.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/72_panorama.ipynb)
 
 ------
 # Other related material and courses
