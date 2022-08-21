@@ -117,6 +117,13 @@ If you are looking for an older version of the tutorials and notebooks that was 
  - [71-Finding-objects-with-feature-matching-and-homography.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/71-Finding-objects-with-feature-matching-and-homography.ipynb)
  - [72_panorama.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/72_panorama.ipynb)
 
+# Module 7 : Image Segmentation and Recognition
+### 1. Image segmentation using GrabCut
+ - [73-Grabcut.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/73-Grabcut.ipynb)
+ 
+### 2. Introduction to AI
+### 3. Image Classification
+### 4. Object Detection
 ------
 # Other related material and courses
 
