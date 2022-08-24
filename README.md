@@ -122,6 +122,11 @@ If you are looking for an older version of the tutorials and notebooks that was 
  - [73-Grabcut.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/73-Grabcut.ipynb)
  
 ### 2. Introduction to AI
+ - [74-persian-digit-dataset.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/74-persian-digit-dataset.ipynb)
+ - [75-persian-digit-classification-with-knn.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/75-persian-digit-classification-with-knn.ipynb)
+ - [76-persian-digit-classification-with-knn-opencv.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/76-persian-digit-classification-with-knn-opencv.ipynb)
+ - [77-english-digit-classification-with-knn.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/77-english-digit-classification-with-knn.ipynb)
+ 
 ### 3. Image Classification
 ### 4. Object Detection
 ------
