@@ -128,6 +128,9 @@ If you are looking for an older version of the tutorials and notebooks that was 
  - [77-english-digit-classification-with-knn.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/77-english-digit-classification-with-knn.ipynb)
  
 ### 3. Image Classification
+ - [79-Gradient-orientation.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/79-Gradient-orientation.ipynb)
+ - [80-HOG.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/80-HOG.ipynb)
+ 
 ### 4. Object Detection
 ------
 # Other related material and courses
