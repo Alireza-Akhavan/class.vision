@@ -132,8 +132,8 @@ If you are looking for an older version of the tutorials and notebooks that was 
  - [80-HOG.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/80-HOG.ipynb)
  
 ### 4. Object Detection
- -[81-HOG-PeopleDetector.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/81-HOG-PeopleDetector.ipynb)
- -[82-Face-and-eye-detection-haarcascade.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/82-Face-and-eye-detection-haarcascade.ipynb)
+ - [81-HOG-PeopleDetector.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/81-HOG-PeopleDetector.ipynb)
+ - [82-Face-and-eye-detection-haarcascade.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/82-Face-and-eye-detection-haarcascade.ipynb)
 ------
 # Other related material and courses
 
