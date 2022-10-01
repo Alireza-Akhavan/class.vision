@@ -48,7 +48,11 @@ If you are looking for an older version of the tutorials and notebooks that was 
  - [22-Dilation-erosion-opening-and-closing.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/22-Dilation-erosion-opening-and-closing.ipynb)
  - [23-Hit-or-miss.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/23-Hit-or-miss.ipynb)
  - [24-remove-horizental-line.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/24-remove-horizental-line.ipynb)
+
+### 3. Connected Component Analysis
  - [25-Connected_components.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/25-Connected_components.ipynb)
+
+### 4. Contour Analysis
  - [26-Finding_contours.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/26-Finding_contours.ipynb)
  - [27-Convex-hull.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/27-Convex-hull.ipynb)
  - [28-Contour-boundingbox-and-enclosing-circle.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/28-Contour-boundingbox-and-enclosing-circle.ipynb)
@@ -56,6 +60,8 @@ If you are looking for an older version of the tutorials and notebooks that was 
  - [30-ApproxPolyDP.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/30-ApproxPolyDP.ipynb)
  - [31-Simple-word-detection-in-text.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/31-Simple-word-detection-in-text.ipynb)
  - [32-Simple-coint-counter.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/32-Simple-coint-counter.ipynb)
+
+### 5. Blob Detection
  - [33-Blob-detection.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/33-Blob-detection.ipynb)
 
 # Module 4: Image Enhancement and Filtering
