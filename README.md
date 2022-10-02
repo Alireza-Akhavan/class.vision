@@ -140,6 +140,13 @@ If you are looking for an older version of the tutorials and notebooks that was 
 ### 4. Object Detection
  - [81-HOG-PeopleDetector.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/81-HOG-PeopleDetector.ipynb)
  - [82-Face-and-eye-detection-haarcascade.ipynb](https://nbviewer.org/github/Alireza-Akhavan/class.vision/blob/master/82-Face-and-eye-detection-haarcascade.ipynb)
+ 
+# Module 8 : Video Analysis
+### Motion Estimation using Optical Flow
+### Background-subtraction
+### Object Trackers in OpenCV
+### Multiple Object Tracking using OpenCV
+
 ------
 # Other related material and courses
 
