@@ -1,0 +1,2 @@
+model/tensorflow/mask_rcnn_frozen_inference_graph.pb filter=lfs diff=lfs merge=lfs -text
+model/caffe/pose_iter_160000.caffemodel filter=lfs diff=lfs merge=lfs -text
