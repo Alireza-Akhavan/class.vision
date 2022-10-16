@@ -1,5 +1,10 @@
 # class.vision
 
+این کدها متعلق به 
+[کورس آموزشی OpenCV](https://class.vision/product/opencv/)
+از سایت کلاس‌ویژن با همکاری مکتب‌خونه
+است. 
+
 ## Older version?!
 If you are looking for an older version of the tutorials and notebooks that was related to "مباحث ویژه" you can follow the link
 [Computer vision and Deep learning in SRU](https://github.com/Alireza-Akhavan/class.vision/tree/SRTTU(1396-1397))
