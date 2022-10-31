@@ -1,8 +1,10 @@
-# class.vision
+# Computer Vision course materials
 
-این کدها متعلق به 
-[کورس آموزشی OpenCV](https://class.vision/product/opencv/)
-از سایت کلاس‌ویژن با همکاری مکتب‌خونه
+این کدها متعلق به کورس
+[ آموزش بینایی کامپیوتر و پردازش تصویر در پایتون با OpenCV](https://class.vision/product/opencv/)
+از سایت
+[کلاس‌ویژن](https://class.vision)
+با همکاری مکتب‌خونه
 است. 
 
 ## Older version?!
